@@ -25959,8 +25959,71 @@
       "id": "7a1021d5-e1ae-4327-a7f2-89742d8c472b",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.rivaldt.com",
+      "geography": {
+        "country_code": "US",
+        "region": "California",
+        "city": "San Francisco"
+      },
+      "organization_details": {
+        "name": "Rival DT",
+        "industry": "Information Technology",
+        "sub_industry": "Software Development"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "Active",
+      "id": "abc1d55c-f136-4bed-a0a7-0b852772b754",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.s3s.com",
+      "geography": {
+        "country_code": "GB",
+        "region": "England",
+        "city": "London"
+      },
+      "organization_details": {
+        "name": "S3S Solutions",
+        "industry": "Consulting",
+        "sub_industry": "Data Analytics"
+      },
+      "size_information": {
+        "employees_range": "201-500",
+        "revenue_range": "$50M-$100M"
+      },
+      "organization_status": "Active",
+      "id": "82178813-7e6e-4636-9ccd-a58189362380",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.solidworld.it",
+      "geography": {
+        "country_code": "IT",
+        "region": "Lombardy",
+        "city": "Milan"
+      },
+      "organization_details": {
+        "name": "Solid World S.r.l.",
+        "industry": "Construction",
+        "sub_industry": "Architecture & Engineering"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "$1M-$5M"
+      },
+      "organization_status": "Active",
+      "id": "19475a9e-5030-47c4-9bc2-afa5b9e56dcf",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1236,
-  "last_updated": "2025-03-24 18:22:11 UTC"
+  "total_count": 1239,
+  "last_updated": "2025-03-24 20:35:38 UTC"
 }

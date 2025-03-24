@@ -7403,9 +7403,27 @@
       "domain": "www.solventacentroamerica.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "abc1d55c-f136-4bed-a0a7-0b852772b754",
+      "domain": "www.rivaldt.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "82178813-7e6e-4636-9ccd-a58189362380",
+      "domain": "www.s3s.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "19475a9e-5030-47c4-9bc2-afa5b9e56dcf",
+      "domain": "www.solidworld.it",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1234,
-  "last_updated": "2025-03-24 18:21:45 UTC",
+  "total_count": 1237,
+  "last_updated": "2025-03-24 20:34:58 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
