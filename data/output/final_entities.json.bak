@@ -22493,9 +22493,81 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "abc1d55c-f136-4bed-a0a7-0b852772b754",
+      "domain": "www.rivaldt.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-24 20:32:15 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "8D 15h 25m 49s",
+        "days": 8,
+        "hours": 15,
+        "minutes": 25,
+        "seconds": 49
+      },
+      "estimated_publish_date": "2025-04-02 12:00:01 UTC",
+      "first_seen": "2025-03-24 20:34:12 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "82178813-7e6e-4636-9ccd-a58189362380",
+      "domain": "www.s3s.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-24 20:30:52 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "6D 15h 25m 49s",
+        "days": 6,
+        "hours": 15,
+        "minutes": 25,
+        "seconds": 49
+      },
+      "estimated_publish_date": "2025-03-31 12:00:01 UTC",
+      "first_seen": "2025-03-24 20:34:12 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "19475a9e-5030-47c4-9bc2-afa5b9e56dcf",
+      "domain": "www.solidworld.it",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-24 20:29:54 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "7D 15h 25m 49s",
+        "days": 7,
+        "hours": 15,
+        "minutes": 25,
+        "seconds": 49
+      },
+      "estimated_publish_date": "2025-04-01 12:00:01 UTC",
+      "first_seen": "2025-03-24 20:34:12 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-24 20:34:57 UTC",
-  "total_count": 1234,
+  "last_updated": "2025-03-24 20:45:57 UTC",
+  "total_count": 1237,
   "description": "Complete archive of all discovered ransomware entities"
 }
