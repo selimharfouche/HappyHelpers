@@ -22445,9 +22445,57 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "7922a04d-a104-4c7c-925d-b261419a4200",
+      "domain": "www.exemplar.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-24 18:04:53 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "2D 17h 39m 17s",
+        "days": 2,
+        "hours": 17,
+        "minutes": 39,
+        "seconds": 17
+      },
+      "estimated_publish_date": "2025-03-27 12:00:01 UTC",
+      "first_seen": "2025-03-24 18:20:44 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "7a1021d5-e1ae-4327-a7f2-89742d8c472b",
+      "domain": "www.solventacentroamerica.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-24 17:51:56 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "1D 17h 39m 17s",
+        "days": 1,
+        "hours": 17,
+        "minutes": 39,
+        "seconds": 17
+      },
+      "estimated_publish_date": "2025-03-26 12:00:01 UTC",
+      "first_seen": "2025-03-24 18:20:44 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-24 18:21:41 UTC",
-  "total_count": 1232,
+  "last_updated": "2025-03-24 18:45:16 UTC",
+  "total_count": 1234,
   "description": "Complete archive of all discovered ransomware entities"
 }
