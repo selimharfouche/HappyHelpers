@@ -26022,8 +26022,113 @@
       "id": "19475a9e-5030-47c4-9bc2-afa5b9e56dcf",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "texascompressionservices.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Texas",
+        "city": "Houston"
+      },
+      "organization_details": {
+        "name": "Texas Compression Services",
+        "industry": "Industrial Services",
+        "sub_industry": "Compression Equipment Maintenance"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "$5M-$10M"
+      },
+      "organization_status": "Active",
+      "id": "e59a15b0-07c8-41b2-a6a7-86fa734eda4c",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "mnm.hu",
+      "geography": {
+        "country_code": "HU",
+        "region": "Central Hungary",
+        "city": "Budapest"
+      },
+      "organization_details": {
+        "name": "MNM Hungary Ltd.",
+        "industry": "Information Technology",
+        "sub_industry": "Software & Services"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "$1M-$5M"
+      },
+      "organization_status": "Active",
+      "id": "44944a50-4a6a-4315-9549-8281818dd519",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "cisd.org",
+      "geography": {
+        "country_code": "US",
+        "region": "Virginia",
+        "city": "Arlington"
+      },
+      "organization_details": {
+        "name": "Center for Integrated Strategic Development",
+        "industry": "Nonprofit",
+        "sub_industry": "Community Development"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$1M-$5M"
+      },
+      "organization_status": "Active",
+      "id": "e72b989b-b574-4b4c-9de3-5b1566ac2492",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "technicare.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Indiana",
+        "city": "Indianapolis"
+      },
+      "organization_details": {
+        "name": "Technicare Inc.",
+        "industry": "Healthcare",
+        "sub_industry": "Medical Devices"
+      },
+      "size_information": {
+        "employees_range": "201-500",
+        "revenue_range": "$50M-$100M"
+      },
+      "organization_status": "Active",
+      "id": "970f6a05-d596-4675-ab9b-cdd093aff968",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "OMLTD.CO.JP",
+      "geography": {
+        "country_code": "JP",
+        "region": "Tokyo",
+        "city": "Tokyo"
+      },
+      "organization_details": {
+        "name": "OM LTD",
+        "industry": "Manufacturing",
+        "sub_industry": "Electronics / Machinery"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "Active",
+      "id": "ecd7534a-f73d-45b2-b62f-12e75fd54f17",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1239,
-  "last_updated": "2025-03-24 20:35:38 UTC"
+  "total_count": 1244,
+  "last_updated": "2025-03-24 20:56:38 UTC"
 }

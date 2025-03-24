@@ -7421,9 +7421,39 @@
       "domain": "www.solidworld.it",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "e59a15b0-07c8-41b2-a6a7-86fa734eda4c",
+      "domain": "texascompressionservices.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "44944a50-4a6a-4315-9549-8281818dd519",
+      "domain": "mnm.hu",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "e72b989b-b574-4b4c-9de3-5b1566ac2492",
+      "domain": "cisd.org",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "970f6a05-d596-4675-ab9b-cdd093aff968",
+      "domain": "technicare.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "ecd7534a-f73d-45b2-b62f-12e75fd54f17",
+      "domain": "OMLTD.CO.JP",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1237,
-  "last_updated": "2025-03-24 20:34:58 UTC",
+  "total_count": 1242,
+  "last_updated": "2025-03-24 20:55:37 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
