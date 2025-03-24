@@ -25917,8 +25917,50 @@
       "id": "2faaff67-8622-4a4c-ba4b-adfac485cafc",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.exemplar.com",
+      "geography": {
+        "country_code": "US",
+        "region": "California",
+        "city": "San Francisco"
+      },
+      "organization": {
+        "name": "Exemplar Inc.",
+        "industry": "Technology",
+        "sub_industry": "Software Development"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "$50M-$100M"
+      },
+      "organization_status": "Active",
+      "id": "7922a04d-a104-4c7c-925d-b261419a4200",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.solventacentroamerica.com",
+      "geography": {
+        "country_code": "GT",
+        "region": "Guatemala",
+        "city": "Guatemala City"
+      },
+      "organization": {
+        "name": "Solventa Centroamérica S.A.",
+        "industry": "Financial Services",
+        "sub_industry": "Microfinance"
+      },
+      "size": {
+        "employees_range": "101-250",
+        "revenue_range": "$10M-$25M"
+      },
+      "organization_status": "Active",
+      "id": "7a1021d5-e1ae-4327-a7f2-89742d8c472b",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1234,
-  "last_updated": "2025-03-21 21:23:19 UTC"
+  "total_count": 1236,
+  "last_updated": "2025-03-24 18:22:11 UTC"
 }

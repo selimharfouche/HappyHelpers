@@ -7391,9 +7391,21 @@
       "domain": "gbsn.com.br",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "7922a04d-a104-4c7c-925d-b261419a4200",
+      "domain": "www.exemplar.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "7a1021d5-e1ae-4327-a7f2-89742d8c472b",
+      "domain": "www.solventacentroamerica.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1232,
-  "last_updated": "2025-03-21 21:22:54 UTC",
+  "total_count": 1234,
+  "last_updated": "2025-03-24 18:21:45 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
