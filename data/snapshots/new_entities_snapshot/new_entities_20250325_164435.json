@@ -155,5 +155,7 @@
         }
     ],
     "last_updated": "2025-03-25 16:44:35 UTC",
-    "total_count": 9
+    "total_count": 9,
+    "ransomware_group": "RansomHub",
+    "group_key": "ransomhub"
 }
