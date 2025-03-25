@@ -22685,9 +22685,81 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/4wq5nbrmxnf8kuBP67e2aec72970a",
+      "domain": "bioclimaservice.it",
+      "status": "countdown",
+      "description_preview": "Greetings!\n\nToday we are posting here the new company, \"BIO - CLIMA SERVICE S.R.L\".\n\nCompany Description: Bio-Clima Service SRL is a company founded in 2002 and specialized in technical assistance, maintenance, parameter qualification and electri...",
+      "updated": "2025-03-25 13:25:00 UTC",
+      "views": 15,
+      "countdown_remaining": {
+        "days": 20,
+        "hours": 20,
+        "minutes": 47,
+        "seconds": 10,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-15 10:25:27 UTC",
+      "first_seen": "2025-03-25 13:38:18 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "post/EOzgCML3JYohpKIs67e2ad4b29410",
+      "domain": "fepasa.com.ar",
+      "status": "countdown",
+      "description_preview": "Greetings!\n\nToday we are posting here the new company, \"F.E.P.A.S.A.\".\n\nCompany Description: FEPASA — Argentine poultry company operating in the field of high-quality meat and by-products since 1964, with an integrated value chain, its own breedi...",
+      "updated": "2025-03-25 13:19:00 UTC",
+      "views": 15,
+      "countdown_remaining": {
+        "days": 20,
+        "hours": 20,
+        "minutes": 40,
+        "seconds": 50,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-15 10:19:07 UTC",
+      "first_seen": "2025-03-25 13:38:18 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "post/ONScXe144Hl1roIe67e2ab79e43cf",
+      "domain": "ossc.com.mx",
+      "status": "countdown",
+      "description_preview": "Greetings!\n\nToday we are posting here the new company, \"OSSC Mexico\".\n\nCompany Description: In 2008, OSSC was created with a base of experts who already had more than ten years of experience in developing GIRO payroll software.\n\nHeadquarters:...",
+      "updated": "2025-03-25 13:11:00 UTC",
+      "views": 28,
+      "countdown_remaining": {
+        "days": 20,
+        "hours": 20,
+        "minutes": 33,
+        "seconds": 4,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-15 10:11:21 UTC",
+      "first_seen": "2025-03-25 13:38:18 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-25 13:38:24 UTC",
-  "total_count": 1242,
+  "last_updated": "2025-03-25 13:50:33 UTC",
+  "total_count": 1245,
   "description": "Complete archive of all discovered ransomware entities"
 }
