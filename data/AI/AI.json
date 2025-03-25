@@ -7469,9 +7469,63 @@
       "domain": "ossc.com.mx",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "daa3ece3-5ca2-4312-9830-b05c2d29aa67",
+      "domain": "www.lions-online.org",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "f4162f9c-b982-4296-acb4-9e4ac3e8635b",
+      "domain": "www.cormidom.com.do",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "0996f465-b75e-478c-a0f4-4e4c9dc47411",
+      "domain": "www.afnigc.ca",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "249f28f8-0038-4876-a5e9-8ec62d3ebb8e",
+      "domain": "www.creativelogisticservices.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "cc7dad5a-d43a-42fe-945d-67780413d271",
+      "domain": "www.ripplejunction.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "b339e442-2a30-4d4e-8092-36a76852e4c9",
+      "domain": "www.argentosc.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "c53f4cfa-ae86-47cf-910f-8a186bc60fee",
+      "domain": "www.mododoc.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "852c6f91-a86b-4fdf-b118-99e2addf6f01",
+      "domain": "www.garbinc.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "60b3f56f-3c04-4cae-ba62-ff808e0d68be",
+      "domain": "www.carolinaac.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1245,
-  "last_updated": "2025-03-25 13:38:30 UTC",
+  "total_count": 1254,
+  "last_updated": "2025-03-25 16:45:25 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

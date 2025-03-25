@@ -26190,8 +26190,197 @@
       "id": "post/ONScXe144Hl1roIe67e2ab79e43cf",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "www.lions-online.org",
+      "geography": {
+        "country_code": "US",
+        "region": "California",
+        "city": "Los Angeles"
+      },
+      "organization_details": {
+        "name": "Lions Online Organization",
+        "industry": "Nonprofit",
+        "sub_industry": "Community Service"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "Active",
+      "id": "daa3ece3-5ca2-4312-9830-b05c2d29aa67",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.cormidom.com.do",
+      "geography": {
+        "country_code": "DO",
+        "region": "Distrito Nacional",
+        "city": "Santo Domingo"
+      },
+      "organization_details": {
+        "name": "Cormidom Dominicana",
+        "industry": "Finance",
+        "sub_industry": "Banking"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$50M-$100M"
+      },
+      "organization_status": "Active",
+      "id": "f4162f9c-b982-4296-acb4-9e4ac3e8635b",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.afnigc.ca",
+      "geography": {
+        "country_code": "CA",
+        "region": "Ontario",
+        "city": "Toronto"
+      },
+      "organization_details": {
+        "name": "AFNIGC Canada Corporation",
+        "industry": "Technology",
+        "sub_industry": "Software"
+      },
+      "size_information": {
+        "employees_range": "201-500",
+        "revenue_range": "$100M-$500M"
+      },
+      "organization_status": "Active",
+      "id": "0996f465-b75e-478c-a0f4-4e4c9dc47411",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.creativelogisticservices.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Texas",
+        "city": "Houston"
+      },
+      "organization_details": {
+        "name": "Creative Logistic Services",
+        "industry": "Logistics",
+        "sub_industry": "Supply Chain Management"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "Active",
+      "id": "249f28f8-0038-4876-a5e9-8ec62d3ebb8e",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.ripplejunction.com",
+      "geography": {
+        "country_code": "US",
+        "region": "California",
+        "city": "Ripple Junction"
+      },
+      "organization_details": {
+        "name": "Ripple Junction Enterprises",
+        "industry": "Hospitality",
+        "sub_industry": "Travel & Tourism"
+      },
+      "size_information": {
+        "employees_range": "1-10",
+        "revenue_range": "Less than $1M"
+      },
+      "organization_status": "Active",
+      "id": "cc7dad5a-d43a-42fe-945d-67780413d271",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.argentosc.com",
+      "geography": {
+        "country_code": "US",
+        "region": "New York",
+        "city": "New York"
+      },
+      "organization_details": {
+        "name": "ArgentoSC Corporation",
+        "industry": "Manufacturing",
+        "sub_industry": "Metal Processing"
+      },
+      "size_information": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "organization_status": "Active",
+      "id": "b339e442-2a30-4d4e-8092-36a76852e4c9",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.mododoc.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Massachusetts",
+        "city": "Boston"
+      },
+      "organization_details": {
+        "name": "ModoDoc Inc.",
+        "industry": "Healthcare Technology",
+        "sub_industry": "Medical Software"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "Active",
+      "id": "c53f4cfa-ae86-47cf-910f-8a186bc60fee",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.garbinc.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Michigan",
+        "city": "Detroit"
+      },
+      "organization_details": {
+        "name": "Garb Incorporated",
+        "industry": "Manufacturing",
+        "sub_industry": "Consumer Goods"
+      },
+      "size_information": {
+        "employees_range": "1001-5000",
+        "revenue_range": "$1B-$5B"
+      },
+      "organization_status": "Active",
+      "id": "852c6f91-a86b-4fdf-b118-99e2addf6f01",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.carolinaac.com",
+      "geography": {
+        "country_code": "US",
+        "region": "North Carolina",
+        "city": "Charlotte"
+      },
+      "organization_details": {
+        "name": "Carolina AC Services",
+        "industry": "Services",
+        "sub_industry": "HVAC"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "$1M-$10M"
+      },
+      "organization_status": "Active",
+      "id": "60b3f56f-3c04-4cae-ba62-ff808e0d68be",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1247,
-  "last_updated": "2025-03-25 13:38:51 UTC"
+  "total_count": 1256,
+  "last_updated": "2025-03-25 16:46:14 UTC"
 }
