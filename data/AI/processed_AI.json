@@ -26127,8 +26127,71 @@
       "id": "ecd7534a-f73d-45b2-b62f-12e75fd54f17",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "bioclimaservice.it",
+      "geography": {
+        "country_code": "IT",
+        "region": "Lombardy",
+        "city": "Milan"
+      },
+      "organization": {
+        "name": "Bioclima Service S.r.l.",
+        "industry": "HVAC",
+        "sub_industry": "Climate Control Solutions"
+      },
+      "size": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "status": "Active",
+      "id": "post/4wq5nbrmxnf8kuBP67e2aec72970a",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "fepasa.com.ar",
+      "geography": {
+        "country_code": "AR",
+        "region": "Buenos Aires",
+        "city": "Buenos Aires"
+      },
+      "organization": {
+        "name": "FEPASA S.A.",
+        "industry": "Agriculture",
+        "sub_industry": "Agro-industrial Machinery"
+      },
+      "size": {
+        "employees_range": "201-500",
+        "revenue_range": "$50M-$100M"
+      },
+      "status": "Active",
+      "id": "post/EOzgCML3JYohpKIs67e2ad4b29410",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "ossc.com.mx",
+      "geography": {
+        "country_code": "MX",
+        "region": "Jalisco",
+        "city": "Guadalajara"
+      },
+      "organization": {
+        "name": "OSSC Technologies S.A. de C.V.",
+        "industry": "Information Technology",
+        "sub_industry": "Software Development"
+      },
+      "size": {
+        "employees_range": "11-50",
+        "revenue_range": "$1M-$10M"
+      },
+      "status": "Active",
+      "id": "post/ONScXe144Hl1roIe67e2ab79e43cf",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1244,
-  "last_updated": "2025-03-24 20:56:38 UTC"
+  "total_count": 1247,
+  "last_updated": "2025-03-25 13:38:51 UTC"
 }

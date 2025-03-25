@@ -7451,9 +7451,27 @@
       "domain": "OMLTD.CO.JP",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "post/4wq5nbrmxnf8kuBP67e2aec72970a",
+      "domain": "bioclimaservice.it",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/EOzgCML3JYohpKIs67e2ad4b29410",
+      "domain": "fepasa.com.ar",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/ONScXe144Hl1roIe67e2ab79e43cf",
+      "domain": "ossc.com.mx",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1242,
-  "last_updated": "2025-03-24 20:55:37 UTC",
+  "total_count": 1245,
+  "last_updated": "2025-03-25 13:38:30 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
