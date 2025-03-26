@@ -26421,8 +26421,29 @@
       "id": "f9807c3a-53b5-431e-af13-3e4eb28dd7d3",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.hongthongrice.com",
+      "geography": {
+        "country_code": "VN",
+        "region": "Southeast",
+        "city": "Ho Chi Minh City"
+      },
+      "organization_details": {
+        "name": "Hong Thong Rice Co., Ltd.",
+        "industry": "Food Processing",
+        "sub_industry": "Rice Milling & Trading"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "active",
+      "id": "f6bcf367-2fb6-462b-85d8-b2a38ac5959e",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1258,
-  "last_updated": "2025-03-26 16:58:49 UTC"
+  "total_count": 1259,
+  "last_updated": "2025-03-26 21:33:53 UTC"
 }

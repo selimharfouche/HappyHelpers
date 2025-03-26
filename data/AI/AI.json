@@ -7535,9 +7535,15 @@
       "domain": "conterra.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "f6bcf367-2fb6-462b-85d8-b2a38ac5959e",
+      "domain": "www.hongthongrice.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1256,
-  "last_updated": "2025-03-26 16:55:40 UTC",
+  "total_count": 1257,
+  "last_updated": "2025-03-26 21:33:24 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
