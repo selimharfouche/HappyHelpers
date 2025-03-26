@@ -22997,9 +22997,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "f9807c3a-53b5-431e-af13-3e4eb28dd7d3",
+      "domain": "conterra.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-26 13:42:17 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "6D 22h 7m 46s",
+        "days": 6,
+        "hours": 22,
+        "minutes": 7,
+        "seconds": 46
+      },
+      "estimated_publish_date": "2025-04-02 12:00:01 UTC",
+      "first_seen": "2025-03-26 13:52:15 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-26 13:53:10 UTC",
-  "total_count": 1255,
+  "last_updated": "2025-03-26 14:10:53 UTC",
+  "total_count": 1256,
   "description": "Complete archive of all discovered ransomware entities"
 }
