@@ -22973,9 +22973,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "2f51bd5b-fe75-4610-96e4-a6cc62b22ed5",
+      "domain": "www.DSelectrical.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-25 17:28:21 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "9D 6h 41m 56s",
+        "days": 9,
+        "hours": 6,
+        "minutes": 41,
+        "seconds": 56
+      },
+      "estimated_publish_date": "2025-04-04 12:00:00 UTC",
+      "first_seen": "2025-03-26 05:18:05 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-26 04:56:45 UTC",
-  "total_count": 1254,
+  "last_updated": "2025-03-26 05:18:46 UTC",
+  "total_count": 1255,
   "description": "Complete archive of all discovered ransomware entities"
 }
