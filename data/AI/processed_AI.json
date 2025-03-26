@@ -26442,8 +26442,29 @@
       "id": "f6bcf367-2fb6-462b-85d8-b2a38ac5959e",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.fkm-elemente.de",
+      "geography": {
+        "country_code": "DE",
+        "region": "Baden-Württemberg",
+        "city": "Stuttgart"
+      },
+      "organization_details": {
+        "name": "FKM Elemente GmbH",
+        "industry": "Manufacturing",
+        "sub_industry": "Industrial Components"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "10M-50M"
+      },
+      "organization_status": "Active",
+      "id": "f0178913-3729-4fac-9921-d050adf9f1a0",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1259,
-  "last_updated": "2025-03-26 21:33:53 UTC"
+  "total_count": 1260,
+  "last_updated": "2025-03-26 21:54:22 UTC"
 }
