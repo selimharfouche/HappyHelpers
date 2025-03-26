@@ -7529,9 +7529,15 @@
       "domain": "www.DSelectrical.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "f9807c3a-53b5-431e-af13-3e4eb28dd7d3",
+      "domain": "conterra.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1255,
-  "last_updated": "2025-03-26 05:18:46 UTC",
+  "total_count": 1256,
+  "last_updated": "2025-03-26 13:53:15 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
