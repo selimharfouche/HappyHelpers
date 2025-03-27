@@ -26463,8 +26463,29 @@
       "id": "f0178913-3729-4fac-9921-d050adf9f1a0",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "brattenelectrictn.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Tennessee",
+        "city": "Knoxville"
+      },
+      "organization": {
+        "name": "Bratten Electric",
+        "industry": "Construction",
+        "sub_industry": "Electrical Contracting"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "$1M-$5M"
+      },
+      "status": "Active",
+      "id": "2e10fe85-a255-4b28-ba72-97ca8adae690",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1260,
-  "last_updated": "2025-03-26 21:54:22 UTC"
+  "total_count": 1261,
+  "last_updated": "2025-03-27 11:46:19 UTC"
 }

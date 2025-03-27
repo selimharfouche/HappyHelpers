@@ -7547,9 +7547,15 @@
       "domain": "www.fkm-elemente.de",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "2e10fe85-a255-4b28-ba72-97ca8adae690",
+      "domain": "brattenelectrictn.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1258,
-  "last_updated": "2025-03-26 21:53:55 UTC",
+  "total_count": 1259,
+  "last_updated": "2025-03-27 11:45:55 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
