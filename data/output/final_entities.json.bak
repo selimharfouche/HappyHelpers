@@ -23093,9 +23093,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "52ba62d8-c971-4df0-a62f-62f97afc6393",
+      "domain": "www.allmilmoe.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-26 18:12:42 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "4D 22h 18m 2s",
+        "days": 4,
+        "hours": 22,
+        "minutes": 18,
+        "seconds": 2
+      },
+      "estimated_publish_date": "2025-04-01 20:00:01 UTC",
+      "first_seen": "2025-03-27 21:41:59 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-27 21:42:50 UTC",
-  "total_count": 1259,
+  "last_updated": "2025-03-27 21:52:16 UTC",
+  "total_count": 1260,
   "description": "Complete archive of all discovered ransomware entities"
 }
