@@ -7553,9 +7553,15 @@
       "domain": "brattenelectrictn.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "52ba62d8-c971-4df0-a62f-62f97afc6393",
+      "domain": "www.allmilmoe.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1259,
-  "last_updated": "2025-03-27 11:45:55 UTC",
+  "total_count": 1260,
+  "last_updated": "2025-03-27 21:42:55 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
