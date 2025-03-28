@@ -26505,8 +26505,29 @@
       "id": "52ba62d8-c971-4df0-a62f-62f97afc6393",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.bassi.it",
+      "geography": {
+        "country_code": "IT",
+        "region": "Lombardia",
+        "city": "Milano"
+      },
+      "organization_details": {
+        "name": "Bassi S.p.A.",
+        "industry": "Manufacturing",
+        "sub_industry": "Industrial Machinery"
+      },
+      "size_information": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$50M"
+      },
+      "organization_status": "Active",
+      "id": "8f3f8c9b-b1a8-48b6-8176-2cadee156b86",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1262,
-  "last_updated": "2025-03-27 21:43:25 UTC"
+  "total_count": 1263,
+  "last_updated": "2025-03-28 16:50:07 UTC"
 }

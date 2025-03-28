@@ -7559,9 +7559,15 @@
       "domain": "www.allmilmoe.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "8f3f8c9b-b1a8-48b6-8176-2cadee156b86",
+      "domain": "www.bassi.it",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1260,
-  "last_updated": "2025-03-27 21:42:55 UTC",
+  "total_count": 1261,
+  "last_updated": "2025-03-28 16:49:38 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
