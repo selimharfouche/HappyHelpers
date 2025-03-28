@@ -23117,9 +23117,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "8f3f8c9b-b1a8-48b6-8176-2cadee156b86",
+      "domain": "www.bassi.it",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-27 12:04:48 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "12D 19h 11m 9s",
+        "days": 12,
+        "hours": 19,
+        "minutes": 11,
+        "seconds": 9
+      },
+      "estimated_publish_date": "2025-04-10 12:00:00 UTC",
+      "first_seen": "2025-03-28 16:48:51 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-28 16:49:38 UTC",
-  "total_count": 1260,
+  "last_updated": "2025-03-28 16:59:22 UTC",
+  "total_count": 1261,
   "description": "Complete archive of all discovered ransomware entities"
 }
