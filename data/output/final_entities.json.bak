@@ -23141,9 +23141,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "abcc5340-8c21-464c-af3e-34d5635631b5",
+      "domain": "phaus.us&phakr.com&phabodysystems.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-28 20:01:50 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "9D 15h 35m 24s",
+        "days": 9,
+        "hours": 15,
+        "minutes": 35,
+        "seconds": 24
+      },
+      "estimated_publish_date": "2025-04-07 12:00:00 UTC",
+      "first_seen": "2025-03-28 20:24:36 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-28 20:25:24 UTC",
-  "total_count": 1261,
+  "last_updated": "2025-03-28 20:39:39 UTC",
+  "total_count": 1262,
   "description": "Complete archive of all discovered ransomware entities"
 }
