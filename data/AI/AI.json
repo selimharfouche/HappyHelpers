@@ -7565,9 +7565,15 @@
       "domain": "www.bassi.it",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "abcc5340-8c21-464c-af3e-34d5635631b5",
+      "domain": "phaus.us&phakr.com&phabodysystems.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1261,
-  "last_updated": "2025-03-28 16:49:38 UTC",
+  "total_count": 1262,
+  "last_updated": "2025-03-28 20:25:30 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
