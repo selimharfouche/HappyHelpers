@@ -7571,9 +7571,15 @@
       "domain": "phaus.us&phakr.com&phabodysystems.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "839ae21a-676a-44fb-84d7-16cc6242d291",
+      "domain": "www.assisi.nl",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1262,
-  "last_updated": "2025-03-28 20:25:30 UTC",
+  "total_count": 1263,
+  "last_updated": "2025-03-29 20:55:55 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

@@ -26526,8 +26526,29 @@
       "id": "8f3f8c9b-b1a8-48b6-8176-2cadee156b86",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "www.assisi.nl",
+      "geography": {
+        "country_code": "NL",
+        "region": "North Holland",
+        "city": "Amsterdam"
+      },
+      "organization_details": {
+        "name": "Assisi Medical Solutions",
+        "industry": "Healthcare",
+        "sub_industry": "Medical Equipment"
+      },
+      "size_information": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "organization_status": "Active",
+      "id": "839ae21a-676a-44fb-84d7-16cc6242d291",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1263,
-  "last_updated": "2025-03-28 16:50:07 UTC"
+  "total_count": 1264,
+  "last_updated": "2025-03-29 20:56:20 UTC"
 }
