@@ -23165,9 +23165,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "839ae21a-676a-44fb-84d7-16cc6242d291",
+      "domain": "www.assisi.nl",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-02-17 14:34:14 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "6D 15h 7m 4s",
+        "days": 6,
+        "hours": 15,
+        "minutes": 7,
+        "seconds": 4
+      },
+      "estimated_publish_date": "2025-04-05 12:00:01 UTC",
+      "first_seen": "2025-03-29 20:52:58 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-29 20:55:51 UTC",
-  "total_count": 1262,
+  "last_updated": "2025-03-29 21:13:09 UTC",
+  "total_count": 1263,
   "description": "Complete archive of all discovered ransomware entities"
 }
