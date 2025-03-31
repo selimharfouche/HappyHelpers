@@ -26568,8 +26568,50 @@
       "id": "post/c62VapMReUwgpqWt67ea989dead28",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "delta-life.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Southeast",
+        "city": "Atlanta"
+      },
+      "organization": {
+        "name": "Delta Life Insurance",
+        "industry": "Insurance",
+        "sub_industry": "Life Insurance"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "status": "active",
+      "id": "5d958467-3ca3-4f7c-b4c9-a672b575f88d",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "europtec.com",
+      "geography": {
+        "country_code": "DE",
+        "region": "Bavaria",
+        "city": "Munich"
+      },
+      "organization": {
+        "name": "Europtec GmbH",
+        "industry": "Industrial",
+        "sub_industry": "Manufacturing"
+      },
+      "size": {
+        "employees_range": "1001-5000",
+        "revenue_range": "€500M-€2B"
+      },
+      "status": "active",
+      "id": "4d713fa4-7eb3-46d6-ab09-e352ce93ef9a",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1265,
-  "last_updated": "2025-03-31 13:33:36 UTC"
+  "total_count": 1267,
+  "last_updated": "2025-03-31 17:55:10 UTC"
 }
