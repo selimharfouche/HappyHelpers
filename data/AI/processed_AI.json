@@ -26547,8 +26547,29 @@
       "id": "839ae21a-676a-44fb-84d7-16cc6242d291",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "test1234.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Arizona",
+        "city": "Phoenix"
+      },
+      "organization": {
+        "name": "Test 1234 Inc.",
+        "industry": "Information Technology",
+        "sub_industry": "Software Testing"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "Less than $1M"
+      },
+      "status": "Inactive",
+      "id": "post/c62VapMReUwgpqWt67ea989dead28",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1264,
-  "last_updated": "2025-03-29 20:56:20 UTC"
+  "total_count": 1265,
+  "last_updated": "2025-03-31 13:33:36 UTC"
 }
