@@ -23213,9 +23213,57 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "5d958467-3ca3-4f7c-b4c9-a672b575f88d",
+      "domain": "delta-life.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-30 18:00:09 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "29D 18h 6m 16s",
+        "days": 29,
+        "hours": 18,
+        "minutes": 6,
+        "seconds": 16
+      },
+      "estimated_publish_date": "2025-04-30 12:00:01 UTC",
+      "first_seen": "2025-03-31 17:53:46 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "4d713fa4-7eb3-46d6-ab09-e352ce93ef9a",
+      "domain": "europtec.com",
+      "status": "countdown",
+      "description_preview": null,
+      "updated": "2025-03-27 19:00:05 UTC",
+      "views": null,
+      "countdown_remaining": {
+        "countdown_text": "9D 18h 6m 16s",
+        "days": 9,
+        "hours": 18,
+        "minutes": 6,
+        "seconds": 16
+      },
+      "estimated_publish_date": "2025-04-10 12:00:01 UTC",
+      "first_seen": "2025-03-31 17:53:46 UTC",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-03-31 17:54:30 UTC",
-  "total_count": 1264,
+  "last_updated": "2025-03-31 18:19:23 UTC",
+  "total_count": 1266,
   "description": "Complete archive of all discovered ransomware entities"
 }
