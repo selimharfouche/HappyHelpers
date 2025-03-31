@@ -26610,8 +26610,50 @@
       "id": "4d713fa4-7eb3-46d6-ab09-e352ce93ef9a",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "jackpotjunction.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Nevada",
+        "city": "Las Vegas"
+      },
+      "organization_details": {
+        "name": "Jackpot Junction LLC",
+        "industry": "Entertainment",
+        "sub_industry": "Casino & Gaming"
+      },
+      "size_information": {
+        "employees_range": "11-50",
+        "revenue_range": "$5M-$20M"
+      },
+      "organization_status": "Active",
+      "id": "4cd0f25f-6fb5-4817-b104-2aba45d85731",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "intellioan.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Massachusetts",
+        "city": "Boston"
+      },
+      "organization_details": {
+        "name": "Intellioan Solutions",
+        "industry": "Consulting",
+        "sub_industry": "Business Consulting"
+      },
+      "size_information": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "organization_status": "Active",
+      "id": "11aec96c-018f-4503-baef-341f2d086b61",
+      "group_key": "ransomhub",
+      "ransomware_group": "RansomHub"
     }
   ],
-  "total_count": 1267,
-  "last_updated": "2025-03-31 17:55:10 UTC"
+  "total_count": 1269,
+  "last_updated": "2025-03-31 21:47:09 UTC"
 }

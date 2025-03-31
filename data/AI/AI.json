@@ -7595,9 +7595,21 @@
       "domain": "europtec.com",
       "ransomware_group": "RansomHub",
       "group_key": "ransomhub"
+    },
+    {
+      "id": "4cd0f25f-6fb5-4817-b104-2aba45d85731",
+      "domain": "jackpotjunction.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
+    },
+    {
+      "id": "11aec96c-018f-4503-baef-341f2d086b61",
+      "domain": "intellioan.com",
+      "ransomware_group": "RansomHub",
+      "group_key": "ransomhub"
     }
   ],
-  "total_count": 1266,
-  "last_updated": "2025-03-31 17:54:32 UTC",
+  "total_count": 1268,
+  "last_updated": "2025-03-31 21:46:45 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
