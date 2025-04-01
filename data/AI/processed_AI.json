@@ -26652,8 +26652,29 @@
       "id": "11aec96c-018f-4503-baef-341f2d086b61",
       "group_key": "ransomhub",
       "ransomware_group": "RansomHub"
+    },
+    {
+      "domain": "testsite.com",
+      "geography": {
+        "country_code": "US",
+        "region": "New York",
+        "city": "New York"
+      },
+      "organization": {
+        "name": "Test Site Corporation",
+        "industry": "Marketing",
+        "sub_industry": "Digital Advertising"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "<$1M"
+      },
+      "status": "Inactive",
+      "id": "post/xdUD6AVVA3sUEp3867eb97fc5eadf",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1269,
-  "last_updated": "2025-03-31 21:47:09 UTC"
+  "total_count": 1270,
+  "last_updated": "2025-04-01 07:40:55 UTC"
 }
