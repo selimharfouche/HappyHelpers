@@ -4679,14 +4679,14 @@
             "domain": "www.scpautomation.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "3D 3h 26m 18s",
-                "days": 3,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "2D 22h 41m 13s",
+                "days": 2,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-21 16:17:23",
-            "estimated_publish_date": "2025-04-04 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-04 12:00:00 UTC",
             "first_seen": "2025-03-21 17:20:03 UTC"
         },
         {
@@ -4715,14 +4715,14 @@
             "domain": "www.rivaldt.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "1D 3h 26m 18s",
-                "days": 1,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "22h 41m 13s",
+                "days": 0,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-24 20:32:15",
-            "estimated_publish_date": "2025-04-02 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-02 12:00:00 UTC",
             "first_seen": "2025-03-24 20:34:12 UTC"
         },
         {
@@ -4735,16 +4735,8 @@
         {
             "id": "19475a9e-5030-47c4-9bc2-afa5b9e56dcf",
             "domain": "www.solidworld.it",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-24 20:29:54",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-24 20:34:12 UTC"
         },
         {
@@ -4785,136 +4777,64 @@
         {
             "id": "daa3ece3-5ca2-4312-9830-b05c2d29aa67",
             "domain": "www.lions-online.org",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:44:09",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "f4162f9c-b982-4296-acb4-9e4ac3e8635b",
             "domain": "www.cormidom.com.do",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:42:19",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "0996f465-b75e-478c-a0f4-4e4c9dc47411",
             "domain": "www.afnigc.ca",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:40:46",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "249f28f8-0038-4876-a5e9-8ec62d3ebb8e",
             "domain": "www.creativelogisticservices.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:39:16",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "cc7dad5a-d43a-42fe-945d-67780413d271",
             "domain": "www.ripplejunction.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:37:55",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "b339e442-2a30-4d4e-8092-36a76852e4c9",
             "domain": "www.argentosc.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:36:55",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "c53f4cfa-ae86-47cf-910f-8a186bc60fee",
             "domain": "www.mododoc.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:35:02",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "852c6f91-a86b-4fdf-b118-99e2addf6f01",
             "domain": "www.garbinc.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:34:05",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
             "id": "60b3f56f-3c04-4cae-ba62-ff808e0d68be",
             "domain": "www.carolinaac.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-25 10:32:09",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-25 16:44:35 UTC"
         },
         {
@@ -4922,14 +4842,14 @@
             "domain": "www.DSelectrical.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "3D 3h 26m 18s",
-                "days": 3,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "2D 22h 41m 13s",
+                "days": 2,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-25 17:28:21",
-            "estimated_publish_date": "2025-04-04 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-04 12:00:00 UTC",
             "first_seen": "2025-03-26 05:18:05 UTC"
         },
         {
@@ -4937,14 +4857,14 @@
             "domain": "conterra.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "1D 3h 26m 18s",
-                "days": 1,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "22h 41m 13s",
+                "days": 0,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-26 13:42:17",
-            "estimated_publish_date": "2025-04-02 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-02 12:00:00 UTC",
             "first_seen": "2025-03-26 13:52:15 UTC"
         },
         {
@@ -4952,14 +4872,14 @@
             "domain": "www.hongthongrice.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "1D 3h 26m 18s",
-                "days": 1,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "22h 41m 13s",
+                "days": 0,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-25 00:17:00",
-            "estimated_publish_date": "2025-04-02 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-02 12:00:00 UTC",
             "first_seen": "2025-03-26 21:32:35 UTC"
         },
         {
@@ -4967,29 +4887,21 @@
             "domain": "www.fkm-elemente.de",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "11h 26m 18s",
+                "countdown_text": "6h 41m 13s",
                 "days": 0,
-                "hours": 11,
-                "minutes": 26,
-                "seconds": 18
+                "hours": 6,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-26 17:52:17",
-            "estimated_publish_date": "2025-04-01 20:00:01 UTC",
+            "estimated_publish_date": "2025-04-01 20:00:00 UTC",
             "first_seen": "2025-03-26 21:53:13 UTC"
         },
         {
             "id": "2e10fe85-a255-4b28-ba72-97ca8adae690",
             "domain": "brattenelectrictn.com",
-            "status": "countdown",
-            "countdown_remaining": {
-                "countdown_text": "3h 26m 18s",
-                "days": 0,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
-            },
+            "status": "published",
             "updated": "2025-03-26 10:29:47",
-            "estimated_publish_date": "2025-04-01 12:00:01 UTC",
             "first_seen": "2025-03-27 11:45:03 UTC"
         },
         {
@@ -4997,14 +4909,14 @@
             "domain": "www.allmilmoe.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "11h 26m 18s",
+                "countdown_text": "6h 41m 13s",
                 "days": 0,
-                "hours": 11,
-                "minutes": 26,
-                "seconds": 18
+                "hours": 6,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-26 18:12:42",
-            "estimated_publish_date": "2025-04-01 20:00:01 UTC",
+            "estimated_publish_date": "2025-04-01 20:00:00 UTC",
             "first_seen": "2025-03-27 21:41:59 UTC"
         },
         {
@@ -5027,14 +4939,14 @@
             "domain": "phaus.us&phakr.com&phabodysystems.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "6D 3h 26m 18s",
-                "days": 6,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "5D 22h 41m 13s",
+                "days": 5,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-28 20:01:50",
-            "estimated_publish_date": "2025-04-07 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-07 12:00:00 UTC",
             "first_seen": "2025-03-28 20:24:36 UTC"
         },
         {
@@ -5042,14 +4954,14 @@
             "domain": "www.assisi.nl",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "4D 3h 26m 18s",
-                "days": 4,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "3D 22h 41m 13s",
+                "days": 3,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-02-17 14:34:14",
-            "estimated_publish_date": "2025-04-05 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-05 12:00:00 UTC",
             "first_seen": "2025-03-29 20:52:58 UTC"
         },
         {
@@ -5057,14 +4969,14 @@
             "domain": "delta-life.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "29D 3h 26m 18s",
-                "days": 29,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "28D 22h 41m 13s",
+                "days": 28,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-30 18:00:09",
-            "estimated_publish_date": "2025-04-30 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-30 12:00:00 UTC",
             "first_seen": "2025-03-31 17:53:46 UTC"
         },
         {
@@ -5072,14 +4984,14 @@
             "domain": "europtec.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "9D 3h 26m 18s",
-                "days": 9,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "8D 22h 41m 13s",
+                "days": 8,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-27 19:00:05",
-            "estimated_publish_date": "2025-04-10 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-10 12:00:00 UTC",
             "first_seen": "2025-03-31 17:53:46 UTC"
         },
         {
@@ -5087,14 +4999,14 @@
             "domain": "jackpotjunction.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "29D 3h 26m 18s",
-                "days": 29,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "28D 22h 41m 13s",
+                "days": 28,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-31 16:17:39",
-            "estimated_publish_date": "2025-04-30 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-30 12:00:00 UTC",
             "first_seen": "2025-03-31 21:45:38 UTC"
         },
         {
@@ -5102,17 +5014,17 @@
             "domain": "intellioan.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "29D 3h 26m 18s",
-                "days": 29,
-                "hours": 3,
-                "minutes": 26,
-                "seconds": 18
+                "countdown_text": "28D 22h 41m 13s",
+                "days": 28,
+                "hours": 22,
+                "minutes": 41,
+                "seconds": 13
             },
             "updated": "2025-03-30 18:20:30",
-            "estimated_publish_date": "2025-04-30 12:00:01 UTC",
+            "estimated_publish_date": "2025-04-30 12:00:00 UTC",
             "first_seen": "2025-03-31 21:45:38 UTC"
         }
     ],
-    "last_updated": "2025-04-01 08:33:43 UTC",
+    "last_updated": "2025-04-01 13:18:48 UTC",
     "total_count": 696
 }
