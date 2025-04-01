@@ -1,55 +1,103 @@
 "use client"
 
-import { useTheme } from "next-themes"
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { useRef, useEffect } from "react"
+import { Bar } from "react-chartjs-2"
+import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from "chart.js"
+
+ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
 interface IndustryChartProps {
   data: Array<{ name: string; count: number }>
   language: string
+  onIndustryClick?: (industry: string) => void
+  activeIndustry?: string
 }
 
-export function IndustryChart({ data, language }: IndustryChartProps) {
-  const { theme } = useTheme()
+export function IndustryChart({ data, language, onIndustryClick, activeIndustry }: IndustryChartProps) {
+  const chartRef = useRef<ChartJS>(null)
+
+  // Handle click events on the chart
+  useEffect(() => {
+    const chart = chartRef.current
+
+    if (!chart || !onIndustryClick) return
+
+    const handleClick = (event: MouseEvent) => {
+      const points = chart.getElementsAtEventForMode(event, "nearest", { intersect: true }, false)
+
+      if (points.length) {
+        const firstPoint = points[0]
+        const index = firstPoint.index
+        const industry = data[index].name
+
+        // Call the click handler without any conditions
+        onIndustryClick(industry)
+      }
+    }
+
+    chart.canvas.addEventListener("click", handleClick)
+
+    // Add cursor style to canvas
+    if (chart.canvas) {
+      chart.canvas.style.cursor = "pointer"
+    }
+
+    return () => {
+      chart.canvas.removeEventListener("click", handleClick)
+    }
+  }, [data, onIndustryClick])
+
+  const options = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        display: false,
+      },
+      title: {
+        display: true,
+        text: language === "en" ? "Top 5 Industries" : "Top 5 Industries",
+      },
+      tooltip: {
+        callbacks: {
+          label: (context: any) => {
+            return `${context.raw} ${language === "en" ? "entities" : "entités"}`
+          },
+        },
+      },
+    },
+    scales: {
+      y: {
+        beginAtZero: true,
+        ticks: {
+          precision: 0,
+        },
+      },
+    },
+    onClick: (event: any, elements: any) => {
+      if (elements.length > 0 && onIndustryClick) {
+        const index = elements[0].index
+        onIndustryClick(data[index].name)
+      }
+    },
+  }
+
+  const chartData = {
+    labels: data.map((item) => item.name),
+    datasets: [
+      {
+        data: data.map((item) => item.count),
+        backgroundColor: data.map((item) => (item.name === activeIndustry ? "#F53" : "#3b82f6")),
+        borderColor: data.map((item) => (item.name === activeIndustry ? "#E42" : "#2563eb")),
+        borderWidth: 1,
+      },
+    ],
+  }
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>{language === "en" ? "Top 5 Industries" : "Top 5 des Industries"}</CardTitle>
-      </CardHeader>
-      <CardContent>
-        <div className="h-[300px]">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={data} margin={{ top: 20, right: 30, left: 20, bottom: 60 }}>
-              <XAxis
-                dataKey="name"
-                angle={-45}
-                textAnchor="end"
-                height={70}
-                tick={{ fill: theme === "dark" ? "#e4e4e7" : "#18181b" }}
-              />
-              <YAxis tick={{ fill: theme === "dark" ? "#e4e4e7" : "#18181b" }} />
-              <Tooltip
-                contentStyle={{
-                  backgroundColor: theme === "dark" ? "#27272a" : "#ffffff",
-                  color: theme === "dark" ? "#e4e4e7" : "#18181b",
-                  border: `1px solid ${theme === "dark" ? "#3f3f46" : "#e4e4e7"}`,
-                }}
-                labelStyle={{
-                  color: theme === "dark" ? "#e4e4e7" : "#18181b",
-                }}
-              />
-              <Bar
-                dataKey="count"
-                fill="#3b82f6"
-                name={language === "en" ? "Entities" : "Entités"}
-                radius={[4, 4, 0, 0]}
-              />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-      </CardContent>
-    </Card>
+    <div className="p-4 rounded-lg border bg-card text-card-foreground shadow-sm h-80">
+      <Bar ref={chartRef} options={options as any} data={chartData} />
+    </div>
   )
 }
 

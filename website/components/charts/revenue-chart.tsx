@@ -1,72 +1,122 @@
 "use client"
 
-import { useTheme } from "next-themes"
-import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer, Legend } from "recharts"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { useRef, useEffect } from "react"
+import { Pie } from "react-chartjs-2"
+import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js"
+
+ChartJS.register(ArcElement, Tooltip, Legend)
 
 interface RevenueChartProps {
   data: Array<{ name: string; value: number }>
   language: string
+  onRangeClick?: (range: string) => void
+  activeRange?: string
 }
 
-export function RevenueChart({ data, language }: RevenueChartProps) {
-  const { theme } = useTheme()
-  const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#8884d8", "#82ca9d"]
+export function RevenueChart({ data, language, onRangeClick, activeRange }: RevenueChartProps) {
+  const chartRef = useRef<ChartJS>(null)
 
-  // Custom label that shows both name and percentage
-  const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, index }: any) => {
-    const RADIAN = Math.PI / 180
-    const radius = innerRadius + (outerRadius - innerRadius) * 0.5
-    const x = cx + radius * Math.cos(-midAngle * RADIAN)
-    const y = cy + radius * Math.sin(-midAngle * RADIAN)
+  // Handle click events on the chart
+  useEffect(() => {
+    const chart = chartRef.current
 
-    return (
-      <text x={x} y={y} fill="white" textAnchor={x > cx ? "start" : "end"} dominantBaseline="central" fontSize="12">
-        {`${(percent * 100).toFixed(0)}%`}
-      </text>
-    )
+    if (!chart || !onRangeClick) return
+
+    const handleClick = (event: MouseEvent) => {
+      const points = chart.getElementsAtEventForMode(event, "nearest", { intersect: true }, false)
+
+      if (points.length) {
+        const firstPoint = points[0]
+        const index = firstPoint.index
+        const range = data[index].name
+
+        // Call the click handler without any conditions
+        onRangeClick(range)
+      }
+    }
+
+    chart.canvas.addEventListener("click", handleClick)
+
+    // Add cursor style to canvas
+    if (chart.canvas) {
+      chart.canvas.style.cursor = "pointer"
+    }
+
+    return () => {
+      chart.canvas.removeEventListener("click", handleClick)
+    }
+  }, [data, onRangeClick])
+
+  const options = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        position: "bottom" as const,
+        labels: {
+          boxWidth: 12,
+          padding: 15,
+          usePointStyle: true,
+          pointStyle: "circle",
+          cursor: "pointer",
+        },
+      },
+      title: {
+        display: true,
+        text: language === "en" ? "Revenue Distribution" : "Distribution des Revenus",
+      },
+      tooltip: {
+        callbacks: {
+          label: (context: any) => {
+            const value = context.raw
+            const percentage = ((value / data.reduce((acc, item) => acc + item.value, 0)) * 100).toFixed(1)
+            return `${context.label}: ${value} (${percentage}%)`
+          },
+        },
+      },
+    },
+    onClick: (event: any, elements: any) => {
+      if (elements.length > 0 && onRangeClick) {
+        const index = elements[0].index
+        onRangeClick(data[index].name)
+      }
+    },
+  }
+
+  // Base colors
+  const baseColors = [
+    "#3b82f6", // blue
+    "#10b981", // green
+    "#f59e0b", // amber
+    "#8b5cf6", // purple
+    "#ec4899", // pink
+  ]
+
+  // Highlight the active slice
+  const backgroundColor = data.map((item, index) =>
+    item.name === activeRange ? "#F53" : baseColors[index % baseColors.length],
+  )
+
+  const borderColor = data.map((item, index) =>
+    item.name === activeRange ? "#E42" : baseColors[index % baseColors.length],
+  )
+
+  const chartData = {
+    labels: data.map((item) => item.name),
+    datasets: [
+      {
+        data: data.map((item) => item.value),
+        backgroundColor,
+        borderColor,
+        borderWidth: 1,
+      },
+    ],
   }
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>{language === "en" ? "Top Revenue Ranges" : "Principales Tranches de Revenus"}</CardTitle>
-      </CardHeader>
-      <CardContent>
-        <div className="h-[300px]">
-          <ResponsiveContainer width="100%" height="100%">
-            <PieChart>
-              <Pie
-                data={data}
-                cx="50%"
-                cy="50%"
-                labelLine={false}
-                outerRadius={80}
-                fill="#8884d8"
-                dataKey="value"
-                label={renderCustomizedLabel}
-              >
-                {data.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                ))}
-              </Pie>
-              <Tooltip
-                contentStyle={{
-                  backgroundColor: theme === "dark" ? "#27272a" : "#ffffff",
-                  color: theme === "dark" ? "#e4e4e7" : "#18181b",
-                  border: `1px solid ${theme === "dark" ? "#3f3f46" : "#e4e4e7"}`,
-                }}
-                formatter={(value: number, name: string, props: any) => [
-                  `${value} ${language === "en" ? "entities" : "entités"} (${(props.payload.percent * 100).toFixed(1)}%)`,
-                  props.payload.name,
-                ]}
-              />
-              <Legend />
-            </PieChart>
-          </ResponsiveContainer>
-        </div>
-      </CardContent>
-    </Card>
+    <div className="p-4 rounded-lg border bg-card text-card-foreground shadow-sm h-80" style={{ cursor: "pointer" }}>
+      <Pie ref={chartRef} options={options as any} data={chartData} />
+    </div>
   )
 }
 
