@@ -87,7 +87,7 @@
             "status": "published",
             "description_preview": "Greetings!\n\nToday we are posting here the new company, \"UNILA SA DE CV\".\n\nCompany Description: Universidad Latina is constantly advancing towards excellence and institutional accreditation, improving its physical and technological infrastructure...",
             "updated": "28 Mar, 2025,\u00a0\u00a0 12:49 UTC",
-            "views": 18773,
+            "views": 18777,
             "first_seen": "2025-03-13 17:40:15 UTC"
         },
         {
@@ -96,7 +96,7 @@
             "status": "published",
             "description_preview": "Greetings!\n\nToday we are posting here the new company, \"ESSENZA DESING INDUSTRIA DE MOVIES LTDA\".\n\nCompany Description: Essenza was founded in 2001 in the Serra Ga\u00facha region of Rio Grande do Sul, an important furniture hub in Brazil. Together wi...",
             "updated": "28 Mar, 2025,\u00a0\u00a0 12:49 UTC",
-            "views": 20389,
+            "views": 20395,
             "first_seen": "2025-03-13 17:40:15 UTC"
         },
         {
@@ -114,7 +114,7 @@
             "status": "published",
             "description_preview": "Greetings!\n\nToday we are posting here the new company, \"OSSC Mexico\".\n\nCompany Description: In 2008, OSSC was created with a base of experts who already had more than ten years of experience in developing GIRO payroll software.\n\nHeadquarters:...",
             "updated": "28 Mar, 2025,\u00a0\u00a0 12:49 UTC",
-            "views": 21804,
+            "views": 21811,
             "first_seen": "2025-03-13 17:40:15 UTC"
         },
         {
@@ -4443,12 +4443,12 @@
             "status": "countdown",
             "description_preview": "Greetings!\n\nToday we are posting here the new company, \"BIO - CLIMA SERVICE S.R.L\".\n\nCompany Description: Bio-Clima Service SRL is a company founded in 2002 and specialized in technical assistance, maintenance, parameter qualification and electri...",
             "updated": "25 Mar, 2025,\u00a0\u00a0 13:25 UTC",
-            "views": 4659,
+            "views": 4664,
             "countdown_remaining": {
                 "days": 13,
                 "hours": 15,
-                "minutes": 40,
-                "seconds": 50
+                "minutes": 28,
+                "seconds": 8
             },
             "estimated_publish_date": "2025-04-15 10:25:27 UTC",
             "first_seen": "2025-03-25 13:38:18 UTC"
@@ -4457,14 +4457,11 @@
             "id": "post/EOzgCML3JYohpKIs67e2ad4b29410",
             "domain": "fepasa.com.ar",
             "status": "countdown",
-            "description_preview": "Greetings!\n\nToday we are posting here the new company, \"F.E.P.A.S.A.\".\n\nCompany Description: FEPASA \u2014 Argentine poultry company operating in the field of high-quality meat and by-products since 1964, with an integrated value chain, its own breedi...",
-            "updated": "25 Mar, 2025,\u00a0\u00a0 13:19 UTC",
-            "views": 5456,
             "countdown_remaining": {
                 "days": 13,
                 "hours": 15,
-                "minutes": 34,
-                "seconds": 30
+                "minutes": 21,
+                "seconds": 48
             },
             "estimated_publish_date": "2025-04-15 10:19:07 UTC",
             "first_seen": "2025-03-25 13:38:18 UTC"
@@ -4518,6 +4515,6 @@
             "first_seen": "2025-04-01 07:40:18 UTC"
         }
     ],
-    "last_updated": "2025-04-01 18:44:38 UTC",
+    "last_updated": "2025-04-01 18:57:19 UTC",
     "total_count": 498
 }
