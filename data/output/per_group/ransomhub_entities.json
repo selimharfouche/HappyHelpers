@@ -4679,10 +4679,10 @@
             "domain": "www.scpautomation.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "2D 4h 34m 15s",
+                "countdown_text": "2D 4h 22m 15s",
                 "days": 2,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-21 16:17:23",
@@ -4715,10 +4715,10 @@
             "domain": "www.rivaldt.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "4h 34m 15s",
+                "countdown_text": "4h 22m 15s",
                 "days": 0,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-24 20:32:15",
@@ -4842,10 +4842,10 @@
             "domain": "www.DSelectrical.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "2D 4h 34m 15s",
+                "countdown_text": "2D 4h 22m 15s",
                 "days": 2,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-25 17:28:21",
@@ -4857,10 +4857,10 @@
             "domain": "conterra.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "4h 34m 15s",
+                "countdown_text": "4h 22m 15s",
                 "days": 0,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-26 13:42:17",
@@ -4872,10 +4872,10 @@
             "domain": "www.hongthongrice.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "4h 34m 15s",
+                "countdown_text": "4h 22m 15s",
                 "days": 0,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-25 00:17:00",
@@ -4923,10 +4923,10 @@
             "domain": "phaus.us&phakr.com&phabodysystems.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "5D 4h 34m 15s",
+                "countdown_text": "5D 4h 22m 15s",
                 "days": 5,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-28 20:01:50",
@@ -4938,10 +4938,10 @@
             "domain": "www.assisi.nl",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "3D 4h 34m 15s",
+                "countdown_text": "3D 4h 22m 15s",
                 "days": 3,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-02-17 14:34:14",
@@ -4953,10 +4953,10 @@
             "domain": "delta-life.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "28D 4h 34m 15s",
+                "countdown_text": "28D 4h 22m 15s",
                 "days": 28,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-30 18:00:09",
@@ -4968,10 +4968,10 @@
             "domain": "europtec.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "8D 4h 34m 15s",
+                "countdown_text": "8D 4h 22m 15s",
                 "days": 8,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-27 19:00:05",
@@ -4998,10 +4998,10 @@
             "domain": "intellioan.com",
             "status": "countdown",
             "countdown_remaining": {
-                "countdown_text": "28D 4h 34m 15s",
+                "countdown_text": "28D 4h 22m 15s",
                 "days": 28,
                 "hours": 4,
-                "minutes": 34,
+                "minutes": 22,
                 "seconds": 15
             },
             "updated": "2025-03-30 18:20:30",
@@ -5009,6 +5009,6 @@
             "first_seen": "2025-03-31 21:45:38 UTC"
         }
     ],
-    "last_updated": "2025-04-02 07:25:46 UTC",
+    "last_updated": "2025-04-02 07:37:46 UTC",
     "total_count": 696
 }
