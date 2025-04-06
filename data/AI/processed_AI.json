@@ -26715,8 +26715,29 @@
       "id": "post/OW6GIXarInyRvskA67f276d9bd5cf",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "asiapacificex.com",
+      "geography": {
+        "country_code": "SG",
+        "region": "Asia-Pacific",
+        "city": "Singapore"
+      },
+      "organization_details": {
+        "name": "Asia Pacific Exchange",
+        "industry": "Financial Services",
+        "sub_industry": "Stock Exchange"
+      },
+      "size_information": {
+        "employees_range": "1001-5000",
+        "revenue_range": "$500M-$1B"
+      },
+      "organization_status": "Active",
+      "id": "post/IiKwYq5xg8nLCbTb67f2e21281a7f",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1272,
-  "last_updated": "2025-04-06 13:05:54 UTC"
+  "total_count": 1273,
+  "last_updated": "2025-04-06 20:24:07 UTC"
 }
