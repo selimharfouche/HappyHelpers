@@ -4521,16 +4521,9 @@
             "id": "post/gzkvGu0CvXkxbyCS67f275ad26162",
             "domain": "grupotersa.com.mx",
             "status": "countdown",
-            "description_preview": "Greetings!\n\nToday we are posting here the new company, \"Grupo TERSA\".\n\nCompany Description: Grupo TERSA was born from the dream of our Chairman and Founder Rodrigo Valle Hern\u00e1ndez in 1982, which has now become the dream of a great team of workers...",
-            "updated": "06 Apr, 2025,\u00a0\u00a0 12:38 UTC",
-            "views": 355,
             "countdown_remaining": {
-                "days": 20,
-                "hours": 12,
-                "minutes": 8,
-                "seconds": 8
+                "days": 0
             },
-            "estimated_publish_date": "2025-04-27 09:38:06 UTC",
             "first_seen": "2025-04-06 12:40:14 UTC"
         },
         {
@@ -4539,14 +4532,14 @@
             "status": "countdown",
             "description_preview": "Shop our Lifestyle & Gift Boutique for Designer Stationery, Journals, Planners, Calendars, Holiday, Home Decor, Greeting Cards, Gifts & beyond! Fashion Your Life with Graphique!",
             "updated": "06 Apr, 2025,\u00a0\u00a0 12:43 UTC",
-            "views": 298,
+            "views": 305,
             "countdown_remaining": {
-                "days": 18,
-                "hours": 10,
-                "minutes": 13,
-                "seconds": 8
+                "days": 0,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
             },
-            "estimated_publish_date": "2025-04-25 07:43:06 UTC",
+            "estimated_publish_date": "2025-04-06 21:41:16 UTC",
             "first_seen": "2025-04-06 13:05:13 UTC"
         },
         {
@@ -4555,17 +4548,17 @@
             "status": "countdown",
             "description_preview": "employee documents(CEO included), corporate emails, finance, HR and many more!\nIn case you cant find readme file: have a look at OBS cloud share: obs://apex-om-fileshare or obs://apex-private-img",
             "updated": "06 Apr, 2025,\u00a0\u00a0 20:20 UTC",
-            "views": 60,
+            "views": 69,
             "countdown_remaining": {
-                "days": 20,
-                "hours": 23,
-                "minutes": 50,
-                "seconds": 37
+                "days": 0,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
             },
-            "estimated_publish_date": "2025-04-27 21:20:35 UTC",
+            "estimated_publish_date": "2025-04-06 21:41:16 UTC",
             "first_seen": "2025-04-06 20:23:40 UTC"
         }
     ],
-    "last_updated": "2025-04-06 21:29:59 UTC",
+    "last_updated": "2025-04-06 21:41:16 UTC",
     "total_count": 501
 }
