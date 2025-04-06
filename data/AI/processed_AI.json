@@ -26673,8 +26673,29 @@
       "id": "post/xdUD6AVVA3sUEp3867eb97fc5eadf",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "grupotersa.com.mx",
+      "geography": {
+        "country_code": "MX",
+        "region": "Ciudad de México",
+        "city": "Mexico City"
+      },
+      "organization": {
+        "name": "Grupo Tersa S.A. de C.V.",
+        "industry": "Manufacturing",
+        "sub_industry": "Industrial Equipment"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "status": "Active",
+      "id": "post/gzkvGu0CvXkxbyCS67f275ad26162",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1270,
-  "last_updated": "2025-04-01 07:40:55 UTC"
+  "total_count": 1271,
+  "last_updated": "2025-04-06 12:40:47 UTC"
 }
