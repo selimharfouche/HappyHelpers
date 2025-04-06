@@ -26694,8 +26694,29 @@
       "id": "post/gzkvGu0CvXkxbyCS67f275ad26162",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "graphiquedefrance.com",
+      "geography": {
+        "country_code": "FR",
+        "region": "Île-de-France",
+        "city": "Paris"
+      },
+      "organization": {
+        "name": "Graphique de France",
+        "industry": "Design & Creative",
+        "sub_industry": "Graphic Design"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "Less than $1M"
+      },
+      "status": "Active",
+      "id": "post/OW6GIXarInyRvskA67f276d9bd5cf",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1271,
-  "last_updated": "2025-04-06 12:40:47 UTC"
+  "total_count": 1272,
+  "last_updated": "2025-04-06 13:05:54 UTC"
 }

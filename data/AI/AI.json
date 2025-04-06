@@ -7619,9 +7619,15 @@
       "domain": "grupotersa.com.mx",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/OW6GIXarInyRvskA67f276d9bd5cf",
+      "domain": "graphiquedefrance.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1270,
-  "last_updated": "2025-04-06 12:40:19 UTC",
+  "total_count": 1271,
+  "last_updated": "2025-04-06 13:05:25 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
