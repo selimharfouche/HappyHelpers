@@ -23333,9 +23333,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/gzkvGu0CvXkxbyCS67f275ad26162",
+      "domain": "grupotersa.com.mx",
+      "status": "countdown",
+      "description_preview": "Greetings!\n\nToday we are posting here the new company, \"Grupo TERSA\".\n\nCompany Description: Grupo TERSA was born from the dream of our Chairman and Founder Rodrigo Valle Hernández in 1982, which has now become the dream of a great team of workers...",
+      "updated": "2025-04-06 12:38:00 UTC",
+      "views": 3,
+      "countdown_remaining": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-06 12:40:14 UTC",
+      "first_seen": "2025-04-06 12:40:14 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-04-06 11:58:53 UTC",
-  "total_count": 1269,
+  "last_updated": "2025-04-06 12:40:19 UTC",
+  "total_count": 1270,
   "description": "Complete archive of all discovered ransomware entities"
 }
