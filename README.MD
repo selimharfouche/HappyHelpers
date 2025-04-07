@@ -42,7 +42,7 @@ All site configurations are stored in JSON files, allowing new ransomware sites 
 ### Prerequisites
 
 - Python 3.9+
-- Tor service installed and running
+- Tor service installed
 - Firefox browser
 - Required Python packages (installable via `pip install -r requirements.txt`)
 
@@ -166,7 +166,7 @@ Toutes les configurations de site sont stockées dans des fichiers JSON, permett
 ### Prérequis
 
 - Python 3.9+
-- Service Tor installé et en cours d'exécution
+- Service Tor installé
 - Navigateur Firefox
 - Packages Python requis (installables via `pip install -r requirements.txt`)
 
