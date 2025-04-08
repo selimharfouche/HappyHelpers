@@ -7637,9 +7637,15 @@
       "domain": "crystal-d.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/fcmsyXbFpuLBjzzZ67f59e270ac32",
+      "domain": "physiciansmedicalbilling.net",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1273,
-  "last_updated": "2025-04-08 11:47:42 UTC",
+  "total_count": 1274,
+  "last_updated": "2025-04-08 22:20:17 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
