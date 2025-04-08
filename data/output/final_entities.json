@@ -23405,9 +23405,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/vNRV0CPBAQxee8Uu67f50b8c1ace6",
+      "domain": "crystal-d.com",
+      "status": "countdown",
+      "description_preview": "At Crystal D, we have been manufacturing corporate gifts, recognition awards and crystal promotional products for more than 20 years.",
+      "updated": "2025-04-08 11:42:00 UTC",
+      "views": 3,
+      "countdown_remaining": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-08 11:47:37 UTC",
+      "first_seen": "2025-04-08 11:47:38 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-04-08 11:41:39 UTC",
-  "total_count": 1272,
+  "last_updated": "2025-04-08 11:47:42 UTC",
+  "total_count": 1273,
   "description": "Complete archive of all discovered ransomware entities"
 }
