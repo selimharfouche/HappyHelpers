@@ -7631,9 +7631,15 @@
       "domain": "asiapacificex.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/vNRV0CPBAQxee8Uu67f50b8c1ace6",
+      "domain": "crystal-d.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1272,
-  "last_updated": "2025-04-06 20:23:45 UTC",
+  "total_count": 1273,
+  "last_updated": "2025-04-08 11:47:42 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

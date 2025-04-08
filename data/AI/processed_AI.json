@@ -26736,8 +26736,29 @@
       "id": "post/IiKwYq5xg8nLCbTb67f2e21281a7f",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "crystal-d.com",
+      "geography": {
+        "country_code": "CA",
+        "region": "Ontario",
+        "city": "Toronto"
+      },
+      "organization": {
+        "name": "Crystal D Innovations",
+        "industry": "Technology",
+        "sub_industry": "Consumer Electronics"
+      },
+      "size": {
+        "employees_range": "11-50",
+        "revenue_range": "$1M-$5M"
+      },
+      "status": "Active",
+      "id": "post/vNRV0CPBAQxee8Uu67f50b8c1ace6",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1273,
-  "last_updated": "2025-04-06 20:24:07 UTC"
+  "total_count": 1274,
+  "last_updated": "2025-04-08 11:48:19 UTC"
 }
