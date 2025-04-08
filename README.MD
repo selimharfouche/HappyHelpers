@@ -6,6 +6,10 @@
 
 This project is an automated ransomware leak site monitoring system that tracks victim organizations published by ransomware groups. It uses Tor to safely access darknet sites, extracts information about compromised organizations, and provides notifications when new victims are identified.
 
+## Release 1.0
+
+![HappyHelpers](https://img.shields.io/badge/HappyHelpers-1.0-blue)
+
 ## GitHub Workflows
 
 The system uses two primary GitHub Actions workflows:
@@ -72,7 +76,7 @@ This runs the scraper only against the specified sites (in this example, LockBit
 python tracker/main.py --headless
 ```
 
-Runs the browser in headless mode (without a visible window), useful for servers or GitHub Actions.
+Runs the browser with a visible window. By default, the code runs in headless mode (without a visible window).
 
 #### Disable Entity Processing
 
@@ -90,21 +94,13 @@ python tracker/main.py --no-telegram
 
 Runs without sending Telegram notifications.
 
-#### Constant Monitoring Mode
-
-```bash
-python tracker/main.py --constant-monitoring
-```
-
-Only sends notifications and triggers AI processing when new entities are found.
-
 #### Browser Configuration Overrides
 
 ```bash
 python tracker/main.py --browser-config timing.min_wait_time=15
 ```
 
-Overrides specific browser configuration values from the command line.
+Overrides specific browser configuration values from the command line. All the configs that can be modified at runtime are located under the `config/code` directory.
 
 ### Configuration
 
@@ -129,6 +125,10 @@ To add support for a new ransomware leak site, create a new JSON configuration f
 ## Aperçu
 
 Ce projet est un système automatisé de surveillance des sites de fuite de ransomware qui suit les organisations victimes publiées par les groupes de ransomware. Il utilise Tor pour accéder en toute sécurité aux sites du darknet, extrait des informations sur les organisations compromises et fournit des notifications lorsque de nouvelles victimes sont identifiées.
+
+## Version 1.0
+
+![HappyHelpers](https://img.shields.io/badge/HappyHelpers-1.0-blue)
 
 ## Workflows GitHub
 
@@ -196,7 +196,7 @@ Cela exécute le scraper uniquement sur les sites spécifiés (dans cet exemple,
 python tracker/main.py --headless
 ```
 
-Exécute le navigateur en mode headless (sans fenêtre visible), utile pour les serveurs ou GitHub Actions.
+Exécute le navigateur avec une fenêtre visible. Par défaut, le code s'exécute en mode headless (sans fenêtre visible).
 
 #### Désactiver le Traitement des Entités
 
@@ -214,21 +214,13 @@ python tracker/main.py --no-telegram
 
 Exécute sans envoyer de notifications Telegram.
 
-#### Mode de Surveillance Constante
-
-```bash
-python tracker/main.py --constant-monitoring
-```
-
-Envoie des notifications et déclenche le traitement AI uniquement lorsque de nouvelles entités sont trouvées.
-
 #### Remplacements de Configuration du Navigateur
 
 ```bash
 python tracker/main.py --browser-config timing.min_wait_time=15
 ```
 
-Remplace des valeurs spécifiques de configuration du navigateur depuis la ligne de commande.
+Remplace des valeurs spécifiques de configuration du navigateur depuis la ligne de commande. Toutes les configurations qui peuvent être modifiées à l'exécution se trouvent dans le répertoire `config/code`.
 
 ### Configuration
 
