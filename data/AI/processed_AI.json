@@ -26757,8 +26757,29 @@
       "id": "post/vNRV0CPBAQxee8Uu67f50b8c1ace6",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "physiciansmedicalbilling.net",
+      "geography": {
+        "country_code": "US",
+        "region": "Florida",
+        "city": "Miami"
+      },
+      "organization_details": {
+        "name": "Physicians Medical Billing Services",
+        "industry": "Healthcare",
+        "sub_industry": "Medical Billing"
+      },
+      "size_info": {
+        "employees_range": "1-10",
+        "revenue_range": "Less than $5M"
+      },
+      "organization_status": "Active",
+      "id": "post/fcmsyXbFpuLBjzzZ67f59e270ac32",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1274,
-  "last_updated": "2025-04-08 11:48:19 UTC"
+  "total_count": 1275,
+  "last_updated": "2025-04-09 04:44:35 UTC"
 }
