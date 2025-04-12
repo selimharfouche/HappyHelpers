@@ -26778,8 +26778,50 @@
       "id": "post/fcmsyXbFpuLBjzzZ67f59e270ac32",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "acimfunds.com",
+      "geography": {
+        "country_code": "US",
+        "region": "MA",
+        "city": "Boston"
+      },
+      "organization": {
+        "name": "ACIM Funds",
+        "industry": "Finance",
+        "sub_industry": "Investment Management"
+      },
+      "size": {
+        "employees_range": "201-500 employees",
+        "revenue_range": "$50M-$100M"
+      },
+      "status": "Active",
+      "id": "post/ahNOCWQHyX6zEcRk67fa658724a34",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "visionproducts.llc",
+      "geography": {
+        "country_code": "US",
+        "region": "FL",
+        "city": "Miami"
+      },
+      "organization": {
+        "name": "Vision Products LLC",
+        "industry": "Retail",
+        "sub_industry": "Consumer Electronics"
+      },
+      "size": {
+        "employees_range": "11-50 employees",
+        "revenue_range": "$10M-$25M"
+      },
+      "status": "Active",
+      "id": "post/OPseB5OxsXMD33zc67fa655e591fe",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1275,
-  "last_updated": "2025-04-09 04:44:35 UTC"
+  "total_count": 1277,
+  "last_updated": "2025-04-12 13:22:29 UTC"
 }

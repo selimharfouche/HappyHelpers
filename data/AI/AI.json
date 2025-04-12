@@ -7643,9 +7643,21 @@
       "domain": "physiciansmedicalbilling.net",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/ahNOCWQHyX6zEcRk67fa658724a34",
+      "domain": "acimfunds.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/OPseB5OxsXMD33zc67fa655e591fe",
+      "domain": "visionproducts.llc",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1274,
-  "last_updated": "2025-04-09 04:42:48 UTC",
+  "total_count": 1276,
+  "last_updated": "2025-04-12 13:22:00 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
