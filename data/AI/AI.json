@@ -7655,9 +7655,15 @@
       "domain": "visionproducts.llc",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/WMxgeKvnmjJc1ts967fbfbd5308f7",
+      "domain": "intelliloan.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1276,
-  "last_updated": "2025-04-12 13:22:00 UTC",
+  "total_count": 1277,
+  "last_updated": "2025-04-13 18:22:20 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

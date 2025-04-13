@@ -26820,8 +26820,29 @@
       "id": "post/OPseB5OxsXMD33zc67fa655e591fe",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "intelliloan.com",
+      "geography": {
+        "country_code": "US",
+        "region": "IL",
+        "city": "Chicago"
+      },
+      "organization": {
+        "name": "IntelliLoan Inc.",
+        "industry": "Financial Services",
+        "sub_industry": "Fintech"
+      },
+      "size": {
+        "employees_range": "51-200",
+        "revenue_range": "$10M-$25M"
+      },
+      "status": "Active",
+      "id": "post/WMxgeKvnmjJc1ts967fbfbd5308f7",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1277,
-  "last_updated": "2025-04-12 13:22:29 UTC"
+  "total_count": 1278,
+  "last_updated": "2025-04-13 18:22:53 UTC"
 }
