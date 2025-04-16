@@ -7679,9 +7679,15 @@
       "domain": "jackpotjunction.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/rxIw0r7etVsgsc8H6800162b2e183",
+      "domain": "aqhch.com.cn",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1280,
-  "last_updated": "2025-04-16 17:12:22 UTC",
+  "total_count": 1281,
+  "last_updated": "2025-04-16 20:52:15 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

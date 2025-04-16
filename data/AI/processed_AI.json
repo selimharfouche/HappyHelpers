@@ -26904,8 +26904,29 @@
       "id": "post/6SW3CsuoFZbjT18E67ffe40a3b1c7",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "aqhch.com.cn",
+      "geography": {
+        "country_code": "CN",
+        "region": "Unknown",
+        "city": "Unknown"
+      },
+      "organization": {
+        "name": "Unknown",
+        "industry": "Unknown",
+        "sub_industry": "Unknown"
+      },
+      "size": {
+        "employees_range": "Unknown",
+        "revenue_range": "Unknown"
+      },
+      "status": "Unknown",
+      "id": "post/rxIw0r7etVsgsc8H6800162b2e183",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1281,
-  "last_updated": "2025-04-16 17:12:52 UTC"
+  "total_count": 1282,
+  "last_updated": "2025-04-16 20:52:45 UTC"
 }
