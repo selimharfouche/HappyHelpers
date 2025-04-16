@@ -26841,8 +26841,50 @@
       "id": "post/WMxgeKvnmjJc1ts967fbfbd5308f7",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "ende.bo",
+      "geography": {
+        "country_code": "BO",
+        "region": "La Paz",
+        "city": "La Paz"
+      },
+      "organization": {
+        "name": "Ende Business Solutions",
+        "industry": "Finance",
+        "sub_industry": "Fintech"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "status": "Active",
+      "id": "post/IVwfFqJaktJWSfGO67ffd6316db6e",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "aeamg.org.br",
+      "geography": {
+        "country_code": "BR",
+        "region": "São Paulo",
+        "city": "São Paulo"
+      },
+      "organization": {
+        "name": "AEAMG",
+        "industry": "Nonprofit",
+        "sub_industry": "Healthcare"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "$0-$1M"
+      },
+      "status": "Active",
+      "id": "post/KiZ3EK1iWPwPCE3m67ffd5c1d9db5",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1278,
-  "last_updated": "2025-04-13 18:22:53 UTC"
+  "total_count": 1280,
+  "last_updated": "2025-04-16 16:55:42 UTC"
 }

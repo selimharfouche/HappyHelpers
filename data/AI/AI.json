@@ -7661,9 +7661,21 @@
       "domain": "intelliloan.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/IVwfFqJaktJWSfGO67ffd6316db6e",
+      "domain": "ende.bo",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/KiZ3EK1iWPwPCE3m67ffd5c1d9db5",
+      "domain": "aeamg.org.br",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1277,
-  "last_updated": "2025-04-13 18:22:20 UTC",
+  "total_count": 1279,
+  "last_updated": "2025-04-16 16:55:01 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
