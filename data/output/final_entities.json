@@ -23597,9 +23597,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/rxIw0r7etVsgsc8H6800162b2e183",
+      "domain": "aqhch.com.cn",
+      "status": "countdown",
+      "description_preview": "Heng Chang Machinery Co., Ltd (HCH), founded in 1988, is a leading world-class professional manufacturer of complete production lines for disposable hygiene products.",
+      "updated": "2025-04-16 20:42:00 UTC",
+      "views": 15,
+      "countdown_remaining": {
+        "days": 14,
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 11,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-30 21:42:21 UTC",
+      "first_seen": "2025-04-16 20:52:10 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-04-16 20:40:21 UTC",
-  "total_count": 1280,
+  "last_updated": "2025-04-16 20:52:15 UTC",
+  "total_count": 1281,
   "description": "Complete archive of all discovered ransomware entities"
 }
