@@ -7673,9 +7673,15 @@
       "domain": "aeamg.org.br",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/6SW3CsuoFZbjT18E67ffe40a3b1c7",
+      "domain": "jackpotjunction.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1279,
-  "last_updated": "2025-04-16 16:55:01 UTC",
+  "total_count": 1280,
+  "last_updated": "2025-04-16 17:12:22 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

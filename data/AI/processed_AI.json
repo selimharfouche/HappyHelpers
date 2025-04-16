@@ -26883,8 +26883,29 @@
       "id": "post/KiZ3EK1iWPwPCE3m67ffd5c1d9db5",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "jackpotjunction.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Nevada",
+        "city": "Las Vegas"
+      },
+      "organization": {
+        "name": "Jackpot Junction",
+        "industry": "Gaming",
+        "sub_industry": "Casino & Entertainment"
+      },
+      "size": {
+        "employees_range": "51-200",
+        "revenue_range": "$50M-$100M"
+      },
+      "status": "Active",
+      "id": "post/6SW3CsuoFZbjT18E67ffe40a3b1c7",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1280,
-  "last_updated": "2025-04-16 16:55:42 UTC"
+  "total_count": 1281,
+  "last_updated": "2025-04-16 17:12:52 UTC"
 }
