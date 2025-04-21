@@ -7685,9 +7685,15 @@
       "domain": "aqhch.com.cn",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/yocIn5yrx5m8bunl6806172ae7cb2",
+      "domain": "tuttoperlufficio.eu",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1281,
-  "last_updated": "2025-04-16 20:52:15 UTC",
+  "total_count": 1282,
+  "last_updated": "2025-04-21 10:20:13 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

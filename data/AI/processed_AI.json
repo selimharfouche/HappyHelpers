@@ -26925,8 +26925,29 @@
       "id": "post/rxIw0r7etVsgsc8H6800162b2e183",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "tuttoperlufficio.eu",
+      "geography": {
+        "country_code": "IT",
+        "region": "Lombardy",
+        "city": "Milan"
+      },
+      "organization_details": {
+        "name": "Tutto per l'Ufficio S.r.l.",
+        "industry": "Retail",
+        "sub_industry": "Office Supplies"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "€100M-€500M"
+      },
+      "organization_status": "Active",
+      "id": "post/yocIn5yrx5m8bunl6806172ae7cb2",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1282,
-  "last_updated": "2025-04-16 20:52:45 UTC"
+  "total_count": 1283,
+  "last_updated": "2025-04-21 10:20:42 UTC"
 }
