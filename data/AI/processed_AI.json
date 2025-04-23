@@ -26946,8 +26946,29 @@
       "id": "post/yocIn5yrx5m8bunl6806172ae7cb2",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "acimfunds.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Illinois",
+        "city": "Chicago"
+      },
+      "organization": {
+        "name": "ACIM Funds LLC",
+        "industry": "Finance",
+        "sub_industry": "Investment Management"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "organization_status": "Active",
+      "id": "post/BtTEmcA14uQIPZv76808ca399f414",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1283,
-  "last_updated": "2025-04-21 10:20:42 UTC"
+  "total_count": 1284,
+  "last_updated": "2025-04-23 11:33:02 UTC"
 }

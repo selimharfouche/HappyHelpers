@@ -7691,9 +7691,15 @@
       "domain": "tuttoperlufficio.eu",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/BtTEmcA14uQIPZv76808ca399f414",
+      "domain": "acimfunds.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1282,
-  "last_updated": "2025-04-21 10:20:13 UTC",
+  "total_count": 1283,
+  "last_updated": "2025-04-23 11:32:38 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
