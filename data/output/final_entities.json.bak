@@ -23645,9 +23645,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/BtTEmcA14uQIPZv76808ca399f414",
+      "domain": "acimfunds.com",
+      "status": "countdown",
+      "description_preview": "Managing capital on behalf of institutional investors, family offices, and high net worth individuals. We focus on niche commodities strategies with an emphasis on the energy transition.",
+      "updated": "2025-04-23 11:08:00 UTC",
+      "views": 22,
+      "countdown_remaining": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-04-23 11:32:28 UTC",
+      "first_seen": "2025-04-23 11:32:28 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-04-23 11:32:33 UTC",
-  "total_count": 1282,
+  "last_updated": "2025-04-23 11:42:06 UTC",
+  "total_count": 1283,
   "description": "Complete archive of all discovered ransomware entities"
 }
