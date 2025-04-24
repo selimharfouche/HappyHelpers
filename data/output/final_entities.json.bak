@@ -23669,9 +23669,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/0ExUTjl9SZBWFqzh680a1beb5c857",
+      "domain": "jackpotjunction.com",
+      "status": "countdown",
+      "description_preview": "Cash in on big wins this tax season! Every hour from 5 - 9 pm, one lucky winner will snag $1,040 in CASH or Free Play! Earn just 25 points, print your voucher at a kiosk, and drop it in the drawing barrel for your shot at a hefty payout!",
+      "updated": "2025-04-24 11:09:00 UTC",
+      "views": 16,
+      "countdown_remaining": {
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 33,
+        "countdown_text": null,
+        "days": null
+      },
+      "estimated_publish_date": null,
+      "first_seen": "2025-04-24 11:27:00 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-04-24 11:27:33 UTC",
-  "total_count": 1283,
+  "last_updated": "2025-04-24 11:39:42 UTC",
+  "total_count": 1284,
   "description": "Complete archive of all discovered ransomware entities"
 }
