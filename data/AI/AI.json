@@ -7697,9 +7697,15 @@
       "domain": "acimfunds.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/0ExUTjl9SZBWFqzh680a1beb5c857",
+      "domain": "jackpotjunction.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1283,
-  "last_updated": "2025-04-23 11:32:38 UTC",
+  "total_count": 1284,
+  "last_updated": "2025-04-24 11:27:34 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
