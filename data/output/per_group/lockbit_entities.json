@@ -4588,17 +4588,7 @@
         {
             "id": "post/OPseB5OxsXMD33zc67fa655e591fe",
             "domain": "visionproducts.llc",
-            "status": "countdown",
-            "description_preview": "Sed ultricies, diam et lacinia dapibus, diam dui semper nisl, ut dignissim diam lacus nec purus. In vitae volutpat velit, vitae rutrum enim. Ut tincidunt facilisis urna, eget dictum enim tincidunt vel. Fusce vestibulum sagittis augue, sed egestas era...",
-            "updated": "12 Apr, 2025,\u00a0\u00a0 13:06 UTC",
-            "views": 7634,
-            "countdown_remaining": {
-                "days": 6,
-                "hours": 4,
-                "minutes": 49,
-                "seconds": 54
-            },
-            "estimated_publish_date": "2025-05-02 14:06:39 UTC",
+            "status": "unknown",
             "first_seen": "2025-04-12 13:21:52 UTC"
         },
         {
@@ -4623,14 +4613,14 @@
             "status": "countdown",
             "description_preview": "Greetings!\n\nToday we are posting here the new company, \"Empresa Nacional de Electricidad\".\n\nCompany Description: The National Electricity Company (ENDE) is a corporation of the Plurinational State, whose main objective and strategic role is to pa...",
             "updated": "16 Apr, 2025,\u00a0\u00a0 16:09 UTC",
-            "views": 8019,
+            "views": 8029,
             "countdown_remaining": {
-                "days": 11,
-                "hours": 3,
-                "minutes": 52,
-                "seconds": 37
+                "days": 0,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
             },
-            "estimated_publish_date": "2025-05-07 13:09:22 UTC",
+            "estimated_publish_date": "2025-04-26 09:32:04 UTC",
             "first_seen": "2025-04-16 16:54:55 UTC"
         },
         {
@@ -4639,14 +4629,14 @@
             "status": "countdown",
             "description_preview": "Greetings!\n\nToday we are posting here the new company, \"AEA-MG\".\n\nCompany Description: AEA-MG (Association of Electricians and Employees of CEMIG and its Subsidiaries) was founded on 29 January 1983 by a group of electricians who recognized the n...",
             "updated": "16 Apr, 2025,\u00a0\u00a0 16:07 UTC",
-            "views": 6751,
+            "views": 6762,
             "countdown_remaining": {
-                "days": 11,
-                "hours": 3,
-                "minutes": 50,
-                "seconds": 45
+                "days": 0,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
             },
-            "estimated_publish_date": "2025-05-07 13:07:30 UTC",
+            "estimated_publish_date": "2025-04-26 09:32:04 UTC",
             "first_seen": "2025-04-16 16:54:55 UTC"
         },
         {
@@ -4664,14 +4654,14 @@
             "status": "countdown",
             "description_preview": "Heng Chang Machinery Co., Ltd (HCH), founded in 1988, is a leading world-class professional manufacturer of complete production lines for disposable hygiene products.",
             "updated": "16 Apr, 2025,\u00a0\u00a0 20:42 UTC",
-            "views": 6178,
+            "views": 6186,
             "countdown_remaining": {
-                "days": 4,
-                "hours": 12,
-                "minutes": 25,
-                "seconds": 35
+                "days": 0,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
             },
-            "estimated_publish_date": "2025-04-30 21:42:20 UTC",
+            "estimated_publish_date": "2025-04-26 09:32:04 UTC",
             "first_seen": "2025-04-16 20:52:10 UTC"
         },
         {
@@ -4680,14 +4670,14 @@
             "status": "countdown",
             "description_preview": "E' definito molto pi\u00f9 di un registratore di cassa. Nettun@ 3000 Touch Olivetti effettivamente concede agli esercenti una serie di opportunit\u00e0 che altri prodotti, ugualmente moderni e originali, non offrono. Il suo design innovativo, le dimensioni com...",
             "updated": "21 Apr, 2025,\u00a0\u00a0 10:00 UTC",
-            "views": 3594,
+            "views": 3602,
             "countdown_remaining": {
-                "days": 9,
-                "hours": 1,
-                "minutes": 43,
-                "seconds": 26
+                "days": 0,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0
             },
-            "estimated_publish_date": "2025-05-05 11:00:11 UTC",
+            "estimated_publish_date": "2025-04-26 09:32:04 UTC",
             "first_seen": "2025-04-21 10:20:02 UTC"
         },
         {
@@ -4696,7 +4686,7 @@
             "status": "published",
             "description_preview": "Managing capital on behalf of institutional investors, family offices, and high net worth individuals. We focus on niche commodities strategies with an emphasis on the energy transition.",
             "updated": "23 Apr, 2025,\u00a0\u00a0 11:08 UTC",
-            "views": 2241,
+            "views": 2249,
             "first_seen": "2025-04-23 11:32:28 UTC"
         },
         {
@@ -4705,10 +4695,10 @@
             "status": "published",
             "description_preview": "Cash in on big wins this tax season! Every hour from 5 - 9 pm, one lucky winner will snag $1,040 in CASH or Free Play! Earn just 25 points, print your voucher at a kiosk, and drop it in the drawing barrel for your shot at a hefty payout!",
             "updated": "24 Apr, 2025,\u00a0\u00a0 11:09 UTC",
-            "views": 1528,
+            "views": 1536,
             "first_seen": "2025-04-24 11:27:00 UTC"
         }
     ],
-    "last_updated": "2025-04-26 09:16:46 UTC",
+    "last_updated": "2025-04-26 09:32:04 UTC",
     "total_count": 513
 }
