@@ -23693,9 +23693,105 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/kV3g9UHN1wmvlVWn6813f9023391f",
+      "domain": "pdcm.com",
+      "status": "countdown",
+      "description_preview": "We offer a range of insurance types from business and group insurance to individual life and health.",
+      "updated": "2025-05-01 22:43:00 UTC",
+      "views": 3,
+      "countdown_remaining": {
+        "days": 13,
+        "hours": 21,
+        "minutes": 55,
+        "seconds": 59,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-05-15 20:43:15 UTC",
+      "first_seen": "2025-05-01 22:47:16 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "post/sE6nJEu2rridzSxf6813f8ed7fad9",
+      "domain": "arc-com.com",
+      "status": "countdown",
+      "description_preview": "A leading designer, manufacturer and supplier of design-driven, high-performance textiles and wallcoverings.",
+      "updated": "2025-05-01 22:42:00 UTC",
+      "views": 5,
+      "countdown_remaining": {
+        "days": 13,
+        "hours": 21,
+        "minutes": 55,
+        "seconds": 38,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-05-15 20:42:54 UTC",
+      "first_seen": "2025-05-01 22:47:16 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "post/ExPOVyiGha3etbnv6813f8d63e853",
+      "domain": "kll-law.com",
+      "status": "countdown",
+      "description_preview": "Kagan Lubic Lepper Finkelstein & Gold, LLP is a full-service AV–rated law firm providing practical and legal counsel to clients for over forty years.  A substantial portion of our practice is centered on real estate and cooperative and condominium la...",
+      "updated": "2025-05-01 22:42:00 UTC",
+      "views": 4,
+      "countdown_remaining": {
+        "days": 13,
+        "hours": 21,
+        "minutes": 55,
+        "seconds": 15,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-05-15 20:42:31 UTC",
+      "first_seen": "2025-05-01 22:47:16 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
+    },
+    {
+      "id": "post/2ccPHLOiY4ynlQEL6813f84b5d65a",
+      "domain": "crystal-d.com",
+      "status": "countdown",
+      "description_preview": "At Crystal D, we have been manufacturing corporate gifts, recognition awards and crystal promotional products for more than 20 years.",
+      "updated": "2025-05-01 22:40:00 UTC",
+      "views": 5,
+      "countdown_remaining": {
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 56,
+        "countdown_text": null,
+        "days": null
+      },
+      "estimated_publish_date": null,
+      "first_seen": "2025-05-01 22:47:16 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-05-01 22:49:10 UTC",
-  "total_count": 1284,
+  "last_updated": "2025-05-01 22:57:33 UTC",
+  "total_count": 1288,
   "description": "Complete archive of all discovered ransomware entities"
 }
