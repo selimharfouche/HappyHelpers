@@ -26988,8 +26988,92 @@
       "id": "post/0ExUTjl9SZBWFqzh680a1beb5c857",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "pdcm.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Illinois",
+        "city": "Chicago"
+      },
+      "organization": {
+        "name": "PDCM Corporation",
+        "industry": "Manufacturing",
+        "sub_industry": "Industrial Equipment"
+      },
+      "size": {
+        "employees_range": "1001-5000",
+        "revenue_range": "$100M-$500M"
+      },
+      "status": "Active",
+      "id": "post/kV3g9UHN1wmvlVWn6813f9023391f",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "arc-com.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Florida",
+        "city": "Miami"
+      },
+      "organization": {
+        "name": "Arc-Com Inc.",
+        "industry": "Telecommunications",
+        "sub_industry": "Networking Solutions"
+      },
+      "size": {
+        "employees_range": "11-50",
+        "revenue_range": "$10M-$50M"
+      },
+      "status": "Active",
+      "id": "post/sE6nJEu2rridzSxf6813f8ed7fad9",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "kll-law.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Washington",
+        "city": "Seattle"
+      },
+      "organization": {
+        "name": "KLL Law Group",
+        "industry": "Legal",
+        "sub_industry": "Law Practice"
+      },
+      "size": {
+        "employees_range": "2-10",
+        "revenue_range": "$1M-$10M"
+      },
+      "status": "Active",
+      "id": "post/ExPOVyiGha3etbnv6813f8d63e853",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "crystal-d.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Nevada",
+        "city": "Las Vegas"
+      },
+      "organization": {
+        "name": "Crystal D Enterprises",
+        "industry": "Entertainment",
+        "sub_industry": "Event Management"
+      },
+      "size": {
+        "employees_range": "51-200",
+        "revenue_range": "$5M-$25M"
+      },
+      "status": "Active",
+      "id": "post/2ccPHLOiY4ynlQEL6813f84b5d65a",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1285,
-  "last_updated": "2025-04-24 11:28:01 UTC"
+  "total_count": 1289,
+  "last_updated": "2025-05-01 22:49:41 UTC"
 }

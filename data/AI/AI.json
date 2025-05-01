@@ -7703,9 +7703,33 @@
       "domain": "jackpotjunction.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/kV3g9UHN1wmvlVWn6813f9023391f",
+      "domain": "pdcm.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/sE6nJEu2rridzSxf6813f8ed7fad9",
+      "domain": "arc-com.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/ExPOVyiGha3etbnv6813f8d63e853",
+      "domain": "kll-law.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
+    },
+    {
+      "id": "post/2ccPHLOiY4ynlQEL6813f84b5d65a",
+      "domain": "crystal-d.com",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1284,
-  "last_updated": "2025-04-24 11:27:34 UTC",
+  "total_count": 1288,
+  "last_updated": "2025-05-01 22:49:11 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
