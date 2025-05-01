@@ -72,5 +72,7 @@
         }
     ],
     "last_updated": "2025-05-01 22:47:16 UTC",
-    "total_count": 4
+    "total_count": 4,
+    "ransomware_group": "LockBit",
+    "group_key": "lockbit"
 }
