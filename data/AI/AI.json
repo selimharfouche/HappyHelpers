@@ -7727,9 +7727,15 @@
       "domain": "crystal-d.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/Fg7ycguwBNeR9HQO68174170d7ac5",
+      "domain": "visionproducts.llc",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1288,
-  "last_updated": "2025-05-01 22:49:11 UTC",
+  "total_count": 1289,
+  "last_updated": "2025-05-04 10:36:16 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }

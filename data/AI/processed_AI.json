@@ -27072,8 +27072,29 @@
       "id": "post/2ccPHLOiY4ynlQEL6813f84b5d65a",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "visionproducts.llc",
+      "geography": {
+        "country_code": "US",
+        "region": "Texas",
+        "city": "Austin"
+      },
+      "organization": {
+        "name": "Vision Products LLC",
+        "industry": "Consumer Electronics",
+        "sub_industry": "Smart Devices"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "1M-10M"
+      },
+      "status": "Active",
+      "id": "post/Fg7ycguwBNeR9HQO68174170d7ac5",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1289,
-  "last_updated": "2025-05-01 22:49:41 UTC"
+  "total_count": 1290,
+  "last_updated": "2025-05-04 10:36:46 UTC"
 }
