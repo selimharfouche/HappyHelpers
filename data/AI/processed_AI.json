@@ -27093,8 +27093,29 @@
       "id": "post/Fg7ycguwBNeR9HQO68174170d7ac5",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "ehlers-inc.com",
+      "geography": {
+        "country_code": "US",
+        "region": "OH",
+        "city": "Columbus"
+      },
+      "organization": {
+        "name": "Ehlers Inc.",
+        "industry": "Healthcare",
+        "sub_industry": "Medical Equipment"
+      },
+      "size": {
+        "employees_range": "501-1000",
+        "revenue_range": "$250M-$500M"
+      },
+      "status": "Active",
+      "id": "post/7gAczZ5ot4BSxdCe681a3b761cffd",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1290,
-  "last_updated": "2025-05-04 10:36:46 UTC"
+  "total_count": 1291,
+  "last_updated": "2025-05-06 16:52:13 UTC"
 }
