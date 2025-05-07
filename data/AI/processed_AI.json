@@ -27114,8 +27114,29 @@
       "id": "post/7gAczZ5ot4BSxdCe681a3b761cffd",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "vzlom7may.omg",
+      "geography": {
+        "country_code": "XX",
+        "region": "Unknown",
+        "city": "Unknown"
+      },
+      "organization": {
+        "name": "Vzlom7may Industries",
+        "industry": "Cybersecurity",
+        "sub_industry": "Consulting"
+      },
+      "size": {
+        "employees_range": "1-10",
+        "revenue_range": "Under $1M"
+      },
+      "status": "Inactive",
+      "id": "post/DK0kUJhFbIqG6kXl681bdd1620a2f",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1291,
-  "last_updated": "2025-05-06 16:52:13 UTC"
+  "total_count": 1292,
+  "last_updated": "2025-05-07 22:27:28 UTC"
 }

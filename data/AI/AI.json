@@ -7739,9 +7739,15 @@
       "domain": "ehlers-inc.com",
       "ransomware_group": "LockBit",
       "group_key": "lockbit"
+    },
+    {
+      "id": "post/DK0kUJhFbIqG6kXl681bdd1620a2f",
+      "domain": "vzlom7may.omg",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit"
     }
   ],
-  "total_count": 1290,
-  "last_updated": "2025-05-06 16:51:41 UTC",
+  "total_count": 1291,
+  "last_updated": "2025-05-07 22:27:05 UTC",
   "description": "Extracted fields from ransomware entities for AI processing"
 }
