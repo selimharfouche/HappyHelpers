@@ -23837,9 +23837,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/DK0kUJhFbIqG6kXl681bdd1620a2f",
+      "domain": "vzlom7may.omg",
+      "status": "countdown",
+      "description_preview": "7 мая взломали лайт панель с авторегой для всех желающих, взяли бд, ни один декриптор и ни одна украденная дата компаний не пострадали, разбираюсь как взломали и делаю ребилд. Фул панель и блог функционируют.\nВзломал якобы какой-то хакер хохо из пра...",
+      "updated": "2025-05-07 22:22:00 UTC",
+      "views": 9,
+      "countdown_remaining": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-05-07 22:27:02 UTC",
+      "first_seen": "2025-05-07 22:27:02 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-05-07 22:00:17 UTC",
-  "total_count": 1290,
+  "last_updated": "2025-05-07 22:27:05 UTC",
+  "total_count": 1291,
   "description": "Complete archive of all discovered ransomware entities"
 }
