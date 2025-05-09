@@ -27135,8 +27135,29 @@
       "id": "post/DK0kUJhFbIqG6kXl681bdd1620a2f",
       "group_key": "lockbit",
       "ransomware_group": "LockBit"
+    },
+    {
+      "domain": "hennessyfunds.com",
+      "geography": {
+        "country_code": "US",
+        "region": "Illinois",
+        "city": "Chicago"
+      },
+      "organization_details": {
+        "name": "Hennessy Funds",
+        "industry": "Finance",
+        "sub_industry": "Investment Management"
+      },
+      "size_information": {
+        "employees_range": "501-1000",
+        "revenue_range": "$100M-$500M"
+      },
+      "organization_status": "Active",
+      "id": "post/w6g1L0OoFFe7gg6n681dd79919a5b",
+      "group_key": "lockbit",
+      "ransomware_group": "LockBit"
     }
   ],
-  "total_count": 1292,
-  "last_updated": "2025-05-07 22:27:28 UTC"
+  "total_count": 1293,
+  "last_updated": "2025-05-09 10:26:40 UTC"
 }
