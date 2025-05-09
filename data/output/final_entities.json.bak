@@ -23861,9 +23861,33 @@
       "last_view": null,
       "visits": null,
       "class": null
+    },
+    {
+      "id": "post/w6g1L0OoFFe7gg6n681dd79919a5b",
+      "domain": "hennessyfunds.com",
+      "status": "countdown",
+      "description_preview": "The Hennessy Funds are offered only to United States residents, and information on this web site is intended only for such persons.",
+      "updated": "2025-05-09 10:23:00 UTC",
+      "views": 2,
+      "countdown_remaining": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "countdown_text": null
+      },
+      "estimated_publish_date": "2025-05-09 10:26:17 UTC",
+      "first_seen": "2025-05-09 10:26:17 UTC",
+      "ransomware_group": "LockBit",
+      "group_key": "lockbit",
+      "country": null,
+      "data_size": null,
+      "last_view": null,
+      "visits": null,
+      "class": null
     }
   ],
-  "last_updated": "2025-05-09 10:26:18 UTC",
-  "total_count": 1291,
+  "last_updated": "2025-05-09 10:45:37 UTC",
+  "total_count": 1292,
   "description": "Complete archive of all discovered ransomware entities"
 }
